@@ -1,6 +1,1 @@
----
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: home
----
+[Learn more about me →](https://vedant8.github.io/docs/about/)
