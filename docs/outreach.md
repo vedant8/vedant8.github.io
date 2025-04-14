@@ -4,6 +4,14 @@ title: Outreach
 permalink: /docs/outreach/
 ---
 
-# 🌱 Outreach
+---
 
-Workshops, talks, mentoring, science communication.
+
+
+## 🌱 <span id="outreach">Outreach</span>
+
+- 🚀 Organizer for local science communication events and student workshops
+- 📣 Speaker at public astronomy nights and STEM clubs
+- 🧑‍🏫 Mentor for high school science fairs and coding projects
+
+---
