@@ -14,6 +14,18 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
   </head>
+  <script>
+function openTab(evt, tabId) {
+  var i, tabcontent, tablinks;
+  tabcontent = document.getElementsByClassName("tabcontent");
+  for (i = 0; i < tabcontent.length; i++) tabcontent[i].style.display = "none";
+  tablinks = document.getElementsByClassName("tablink");
+  for (i = 0; i < tablinks.length; i++) tablinks[i].classList.remove("active");
+  document.getElementById(tabId).style.display = "block";
+  evt.currentTarget.classList.add("active");
+}
+</script>
+
   <body>
     <a id="skip-to-content" href="#content">Skip to the content.</a>
     <a href="/docs/about/">About</a>

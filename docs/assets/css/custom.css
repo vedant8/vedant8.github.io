@@ -16,3 +16,28 @@ a {
 a:hover {
   text-decoration: underline;
 }
+
+/* Tabs styling */
+.tablink {
+  background: #f0f0f0;
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  margin-right: 5px;
+  border-radius: 6px 6px 0 0;
+  font-weight: bold;
+}
+
+.tablink.active {
+  background: #0366d6;
+  color: white;
+}
+
+.tabcontent {
+  border: 1px solid #ccc;
+  padding: 1rem;
+  border-radius: 0 6px 6px 6px;
+  margin-top: -1px;
+}
+
+
