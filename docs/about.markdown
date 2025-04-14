@@ -1,8 +1,3 @@
----
-layout: page
-title: About Me
-permalink: /docs/about/
----
 
 # 👋 About Me
 
