@@ -13,23 +13,19 @@ I work on large-scale data analysis and instrumentation development in high-ener
 
 ---
 
-## 📈 Project 1
+## 📈 Astroparticle Physics with Cosmic Neutrinos  
 
-**Title**: Astroparticle Physics with Cosmic Neutrinos  
 **Summary**: Lorem ipsum dolor sit amet...
 
 ---
 
-## 📡 Project 2
-
-**Title**: Instrumentation Development for IceCube Upgrade  
+## 📡 Instrumentation Development for IceCube Upgrade
+  
 **Summary**: Consectetur adipiscing elit...
 
 ---
 
-## 🔭 Project 3
-
-**Title**: South Pole Ice Calibration <br>
+## 🔭 South Pole Ice Calibration
 **Summary**: <br>
       My current projects are largely focused on the development of hardware for the IceCube Upgrade, an expansion of the current IceCube detector to both improve sensitivity to GeV-scale neutrino oscillation measurements, and to better characterize the optical properties of the ice at the South Pole. I am leading the campaign to perform the optical calibration and modelling of South Pole ice using cameras incorporated into the ice. 
 
