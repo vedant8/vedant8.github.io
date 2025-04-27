@@ -10,9 +10,9 @@ I'm **Vedant Basu**, a researcher and science communicator working at the inters
 
 Explore my work:
 
-- 🔬 [Research](/docs/research/)
-- 🌱 [Outreach](/docs/outreach/)
-- 🧭 [About Me](/docs/about/)
+- 🔬 [Research](/docs/pages/research/)
+- 🌱 [Outreach](/docs/pages/outreach/)
+- 🧭 [About Me](/docs/pages/about/)
 
 ---
 
