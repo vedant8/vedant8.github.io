@@ -19,6 +19,10 @@ Explore my work:
 ## 🔗 Find me online
 
 <div style="font-size: 1.2rem;">
+  <a href="mailto:vbasu@icecube.wisc.edu">📧 Email</a> —
+  <a href="https://github.com/vedant8" style="margin-right: 1rem;" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="24" style="vertical-align: middle;"> GitHub
+  </a>
   <a href="https://github.com/vedant8" style="margin-right: 1rem;" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="24" style="vertical-align: middle;"> GitHub
   </a>
