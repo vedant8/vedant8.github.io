@@ -29,8 +29,8 @@ I work on large-scale data analysis and instrumentation development in high-ener
 
 ## 🔭 Project 3
 
-**Title**: South Pole Ice Calibration 
-**Summary**: 
+**Title**: South Pole Ice Calibration \n
+**Summary**: \n
       My current projects are largely focused on the development of hardware for the IceCube Upgrade, an expansion of the current IceCube detector to both improve sensitivity to GeV-scale neutrino oscillation measurements, and to better characterize the optical properties of the ice at the South Pole. I am leading the campaign to perform the optical calibration and modelling of South Pole ice using cameras incorporated into the ice. 
 
 ---
