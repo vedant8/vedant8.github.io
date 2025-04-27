@@ -46,6 +46,8 @@ defaults:
       path: ""
     values:
       css: "/docs/assets/css/custom.css"
+      layout: default
+      header: header
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
