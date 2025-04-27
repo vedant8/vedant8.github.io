@@ -23,9 +23,6 @@ Explore my work:
   <a href="https://github.com/vedant8" style="margin-right: 1rem;" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="24" style="vertical-align: middle;"> GitHub
   </a>
-  <a href="https://github.com/vedant8" style="margin-right: 1rem;" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="24" style="vertical-align: middle;"> GitHub
-  </a>
   <a href="https://www.linkedin.com/in/vedant-basu-12b87611a/" target="_blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="24" style="vertical-align: middle;"> LinkedIn
   </a>
