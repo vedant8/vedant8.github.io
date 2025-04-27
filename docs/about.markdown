@@ -21,8 +21,13 @@ Hi! I'm a researcher, programmer, and science communicator. I work at the inters
 
 
 ## 📬 <span id="contact">Contact</span>
-
-- 📧 [Email](mailto:vbasu@icecube.wisc.edu)
-- 💼 [GitHub](https://github.com/vedant8)
-- 🌐 [LinkedIn](https://www.linkedin.com/in/vedant-basu-12b87611a/)
+<div style="font-size: 1.2rem;">
+  <a href="mailto:vbasu@icecube.wisc.edu">📧</a>
+  <a href="https://github.com/vedant8" style="margin-right: 1rem;" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="24" style="vertical-align: middle;">
+  </a>
+  <a href="https://www.linkedin.com/in/vedant-basu-12b87611a/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="24" style="vertical-align: middle;"> 
+  </a>
+</div>
 
