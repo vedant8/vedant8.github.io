@@ -1,9 +1,9 @@
 ---
-layout: page
-title: Research
-permalink: /docs/research/
+title: "Research"
+permalink: /research/
+layout: single
+author_profile: true
 ---
-
 # 🧪 <span id="research">Research</span>
 I work on large-scale data analysis and instrumentation development in high-energy astrophysics, with a focus on particle detection and signal processing. My recent collaborations include work on the [IceCube](https://icecube.wisc.edu/) Neutrino Observatory, at the South Pole, and the Compact Muon Solenoid (CMS), at CERN, Geneva. I am particularly interested in measurements of the astrophysical neutrino spectrum, and what this tells us about cosmic ray accelerators from a multimessenger perspective.
 

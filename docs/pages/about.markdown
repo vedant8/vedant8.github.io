@@ -1,7 +1,8 @@
 ---
-layout: page
-title: About Me
-permalink: /docs/about/
+title: "About Me"
+permalink: /about/
+layout: single
+author_profile: true
 ---
 
 <!-- Banner image -->

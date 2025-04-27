@@ -1,7 +1,8 @@
 ---
-layout: page
-title: Outreach
-permalink: /docs/outreach/
+title: "Outreach"
+permalink: /outreach/
+layout: single
+author_profile: true
 ---
 
 ---

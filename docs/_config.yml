@@ -1,27 +1,48 @@
-title: Dr. Vedant Basu
-email: vbasu@icecube.wisc.edu
-description: >-
-  Professional website for Dr. Vedant Basu, neutrino astrophysicist.
-baseurl: "/docs"
+title: "Dr. Vedant Basu"
+email: "vbasu@icecube.wisc.edu"
+description: "Professional website for Dr. Vedant Basu, neutrino astrophysicist."
 url: "https://vedant8.github.io"
-github_username: vedant8
+baseurl: "/docs"
 
-markdown: GFM
-remote_theme: pages-themes/cayman@v0.2.0
+repository: "vedant8/vedant8.github.io"
+
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
 plugins:
-- jekyll-remote-theme
+  - jekyll-remote-theme
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-include-cache
 
-nav:
-  - title: Home
-    url: /docs/
-  - title: About
-    url: /docs/about/
+paginate: 5
 
-sass:
-  style: compressed
+# Site Author
+author:
+  name: "Vedant Basu"
+  avatar: "/assets/images/avatar.png" # optional
+  bio: "Astrophysicist studying neutrinos at the ends of the Earth."
+  location: "Madison, WI / South Pole"
+  email: "vbasu@icecube.wisc.edu"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/vedant8"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/your-profile"
+
+# Navigation
+collections:
+  pages:
+    output: true
 
 defaults:
   - scope:
       path: ""
+      type: pages
     values:
-      css: "/docs/assets/css/custom.css"
+      layout: single
+      author_profile: true
+
+# Theme settings
+minimal_mistakes_skin: "default" # we can change to something polar later!
