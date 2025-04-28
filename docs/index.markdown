@@ -10,8 +10,8 @@ I'm **Vedant Basu**, a researcher and science communicator working at the inters
 
 Explore my work:
 
-- [About Me]({{ site.baseurl }}/about/)
-- [Research]({{ site.baseurl }}/research/)
+- [About Me]({{ site.baseurl }}/docs/about/)
+- [Research]({{ site.baseurl }}/docs/research/)
 - [Outreach]({{ site.baseurl }}/outreach/)
 
 ---
