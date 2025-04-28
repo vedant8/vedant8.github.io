@@ -1,6 +1,6 @@
 ---
 title: "About Me"
-permalink: /about/
+permalink: /docs/about/
 layout: single
 author_profile: true
 ---

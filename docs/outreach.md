@@ -1,6 +1,6 @@
 ---
 title: "Outreach"
-permalink: /outreach/
+permalink: /docs/outreach/
 layout: single
 author_profile: true
 ---

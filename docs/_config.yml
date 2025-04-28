@@ -1,15 +1,14 @@
-title: Dr. Vedant Basu
-email: vbasu@icecube.wisc.edu
+title: "Dr. Vedant Basu"
+email: "vbasu@icecube.wisc.edu"
 description: >-
   Professional website for Dr. Vedant Basu, neutrino astrophysicist.
-baseurl: "/docs"
-url: "https://vedant8.github.io"
-remote_theme: mmistakes/minimal-mistakes
+baseurl: "/docs"  # important: your subfolder
+url: "https://vedant8.github.io/docs"  # important: main domain
+remote_theme: "mmistakes/minimal-mistakes"
 plugins:
   - jekyll-remote-theme
-  - jekyll-paginate
-  - jekyll-sitemap
   - jekyll-feed
+  - jekyll-sitemap
   - jekyll-include-cache
 
 markdown: GFM
@@ -17,7 +16,6 @@ markdown: GFM
 defaults:
   - scope:
       path: ""
-      type: "pages"
     values:
       layout: single
       author_profile: true
