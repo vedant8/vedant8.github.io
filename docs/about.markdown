@@ -1,7 +1,7 @@
 ---
 title: "About Me"
 permalink: /docs/about/
-layout: page
+layout: single
 author_profile: true
 ---
 <!-- Banner image -->
