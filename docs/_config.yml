@@ -4,7 +4,7 @@ description: >-
   Professional website for Dr. Vedant Basu, neutrino astrophysicist.
 
 # Important for GitHub Pages (this is the subfolder)
-baseurl: "/docs"  # Make sure this is correct
+baseurl: ""  # Make sure this is correct
 url: "https://vedant8.github.io"  # The root URL of your GitHub Pages site
 
 remote_theme: "mmistakes/minimal-mistakes@4.27.0"  # Make sure this matches the theme version you want
