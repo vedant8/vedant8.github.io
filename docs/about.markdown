@@ -4,9 +4,8 @@ permalink: /docs/about/
 layout: page
 author_profile: true
 ---
-
 <!-- Banner image -->
-<div style="background: url('assets/images/banner.png') center/cover no-repeat; height: 300px; border-radius: 12px; margin-bottom: 2rem;"></div>
+<div style="background: url('https://vedant8.github.io/docs/assets/images/banner_pole.png') center/cover no-repeat; height: 300px; border-radius: 12px; margin-bottom: 2rem;"></div>
 
 # 👋 Vedant Basu
 
