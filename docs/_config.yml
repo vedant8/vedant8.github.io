@@ -29,13 +29,13 @@ defaults:
 # Navigation settings for your site
 nav:
   - title: "Home"
-    url: "/"
+    url: "/docs/"
   - title: "About"
-    url: "/about/"
+    url: "/docs/about/"
   - title: "Research"
-    url: "/research/"
+    url: "/docs/research/"
   - title: "Outreach"
-    url: "/Outreach/"
+    url: "/docs/Outreach/"
 
 # # Optional: Enable social links (e.g., Twitter, GitHub, LinkedIn)
 # social_links:
