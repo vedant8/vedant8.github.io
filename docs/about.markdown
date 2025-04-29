@@ -5,7 +5,7 @@ layout: single
 author_profile: true
 ---
 <!-- Banner image -->
-<div style="background: url('/assets/images/banner_pole.JPG') center/cover no-repeat; height: 300px; border-radius: 12px; margin-bottom: 2rem;"></div>
+<div style="background: url('/assets/images/banner_pole.JPG') center/contain no-repeat; height: 300px; border-radius: 12px; margin-bottom: 2rem;"></div>
 
 # 👋 Vedant Basu
 
