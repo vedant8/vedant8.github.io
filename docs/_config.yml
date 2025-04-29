@@ -4,13 +4,15 @@ description: >-
   Professional website for Dr. Vedant Basu, neutrino astrophysicist.
 baseurl: "/docs"  # important: your subfolder
 url: "https://vedant8.github.io/docs"  # important: main domain
-remote_theme: "mmistakes/minimal-mistakes"
+remote_theme: "mmistakes/minimal-mistakes@4.27.0"
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-include-cache
-  
+  - jekyll-seo-tag
+
+
 
 markdown: kramdown
 
