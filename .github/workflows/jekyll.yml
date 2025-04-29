@@ -3,7 +3,7 @@ name: Build and Deploy Jekyll Site to GitHub Pages
 on:
   push:
     branches:
-      - main  # or 'master' if your branch is master
+      - main  # Change this if your default branch is 'master'
 
 jobs:
   github-pages:
@@ -11,16 +11,23 @@ jobs:
     steps:
       - name: Checkout source
         uses: actions/checkout@v4
+
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: '3.2'
+
       - name: Install dependencies
         run: |
+          cd docs
           gem install bundler
           bundle install
+
       - name: Build site
-        run: bundle exec jekyll build --source docs --destination _site
+        run: |
+          cd docs
+          bundle exec jekyll build --destination ../_site
+
       - name: Deploy to GitHub Pages
         uses: peaceiris/actions-gh-pages@v3
         with:
