@@ -34,8 +34,8 @@ nav:
     url: "/docs/about/"
   - title: "Research"
     url: "/docs/research/"
-  - title: "Contact"
-    url: "/docs/contact/"
+  - title: "Outreach"
+    url: "/docs/Outreach/"
 
 # # Optional: Enable social links (e.g., Twitter, GitHub, LinkedIn)
 # social_links:
@@ -60,6 +60,6 @@ nav:
 # Header settings to make it look polished
 header_pages:
   - "/docs/"
-  - "/docs/about/"
-  - "/docs/research/"
-  - "/docs/outreach/"
+  - "/about/"
+  - "/research/"
+  - "/outreach/"
