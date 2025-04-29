@@ -1,12 +1,12 @@
 ---
 layout: home
-title: Home
+title: 👋 Welcome!
 permalink: /docs/
 ---
 
-# 👋 Welcome!
+# 
 
-I'm **Vedant Basu**, a researcher and science communicator working at the intersection of data, physics, and public outreach.
+I'm **Vedant Basu**, an astrophysicist, instrumentation developer and science communicator working at the intersection of data, physics, and public outreach.
 
 Explore my work:
 
