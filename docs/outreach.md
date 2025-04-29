@@ -1,7 +1,7 @@
 ---
 title: "Outreach"
 permalink: /docs/outreach/
-layout: page
+layout: single
 author_profile: true
 ---
 

@@ -4,8 +4,12 @@ permalink: /docs/about/
 layout: single
 author_profile: true
 ---
-<!-- Banner image -->
-<div style="background: url('/assets/images/banner_pole.JPG') center/contain no-repeat; height: 300px; border-radius: 12px; margin-bottom: 2rem;"></div>
+
+<!-- Banner image (not cropped) -->
+<p style="text-align: center;">
+  <img src="/assets/images/banner_pole.JPG" alt="Banner" style="max-width: 100%; height: auto; border-radius: 12px; margin-bottom: 2rem;">
+</p>
+
 
 # 👋 Vedant Basu
 

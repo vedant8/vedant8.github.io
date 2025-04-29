@@ -1,7 +1,7 @@
 ---
 title: "Research"
 permalink: /docs/research/
-layout: page
+layout: single
 author_profile: true
 ---
 # 🧪 <span id="research">Research</span>
