@@ -1,47 +1,12 @@
-/* Custom styles for About page */
-h1, h2 {
-  color: #1f77b4;
-  font-weight: 600;
-}
-.site-title {
-  pointer-events: none;
-  cursor: default;
-}
-
-section {
-  margin-bottom: 2em;
+// Add custom styles here
+body {
+  font-family: 'Arial', sans-serif;
 }
 
 a {
-  color: #0366d6;
-  text-decoration: none;
+  color: #007bff;
 }
 
 a:hover {
-  text-decoration: underline;
+  color: #0056b3;
 }
-
-/* Tabs styling */
-.tablink {
-  background: #f0f0f0;
-  border: none;
-  padding: 10px 20px;
-  cursor: pointer;
-  margin-right: 5px;
-  border-radius: 6px 6px 0 0;
-  font-weight: bold;
-}
-
-.tablink.active {
-  background: #0366d6;
-  color: white;
-}
-
-.tabcontent {
-  border: 1px solid #ccc;
-  padding: 1rem;
-  border-radius: 0 6px 6px 6px;
-  margin-top: -1px;
-}
-
-

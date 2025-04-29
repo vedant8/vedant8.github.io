@@ -2,9 +2,12 @@ title: "Dr. Vedant Basu"
 email: "vbasu@icecube.wisc.edu"
 description: >-
   Professional website for Dr. Vedant Basu, neutrino astrophysicist.
-baseurl: "/docs"  # important: your subfolder
-url: "https://vedant8.github.io/docs"  # important: main domain
-remote_theme: "mmistakes/minimal-mistakes@4.27.0" 
+
+# Important for GitHub Pages (this is the subfolder)
+baseurl: "/docs"  # Make sure this is correct
+url: "https://vedant8.github.io"  # The root URL of your GitHub Pages site
+
+remote_theme: "mmistakes/minimal-mistakes@4.27.0"  # Make sure this matches the theme version you want
 plugins:
   - jekyll-remote-theme
   - jekyll-feed
@@ -12,13 +15,51 @@ plugins:
   - jekyll-include-cache
   - jekyll-seo-tag
 
-
-
+# Optional: If you want your posts and pages to use kramdown markdown
 markdown: kramdown
 
+# This section sets defaults for pages/posts
 defaults:
   - scope:
       path: ""
     values:
-      layout: single
+      layout: single  # This is for single pages; you can change to 'home' for the homepage layout
       author_profile: true
+
+# Navigation settings for your site
+nav:
+  - title: "Home"
+    url: "/docs/"
+  - title: "About"
+    url: "/docs/about/"
+  - title: "Research"
+    url: "/docs/research/"
+  - title: "Contact"
+    url: "/docs/contact/"
+
+# # Optional: Enable social links (e.g., Twitter, GitHub, LinkedIn)
+# social_links:
+#   - icon: "fab fa-twitter"
+#     url: "https://twitter.com/yourprofile"
+#   - icon: "fab fa-github"
+#     url: "https://github.com/vedant8"
+
+# # Optional: SEO-related settings
+# seo:
+#   twitter: "@yourtwitterhandle"
+#   facebook: "your-facebook-profile"
+
+# # Enable Disqus (if you plan to use it)
+# # disqus:
+# #   shortname: "your-disqus-shortname"
+
+# # Favicon and logo (ensure these files exist in the correct path)
+# favicon: "/assets/images/favicon.ico"
+# logo: "/assets/images/logo.png"
+
+# Header settings to make it look polished
+header_pages:
+  - "/docs/"
+  - "/docs/about/"
+  - "/docs/research/"
+  - "/docs/outreach/"
