@@ -17,17 +17,9 @@
    Typography
    ========================================================================== */
 /* paragraph indention */
-/* Modern font stack */
-/* https://github.com/system-fonts/modern-font-stacks */
-/* Sans serif - modern font stack */
-/* sans serif typefaces - defined in Minimal Mistakes */
-/* Serif - modern font stack */
-/* serif typefaces - defined in Minimal Mistakes */
-/* Monospace - modern font stack */
-/* Handwritten - modern font stack */
-/* Defaults used in Minimal mistakes */
-/* Emoji native from modern font stack - add to the end of the font-face for native emojis */
 /* system typefaces */
+/* sans serif typefaces */
+/* serif typefaces */
 /* type scale */
 /* headline scale */
 /*
@@ -729,8 +721,6 @@ html {
   /* sticky footer fix */
   position: relative;
   min-height: 100%;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
 }
 
 body {
@@ -1573,18 +1563,6 @@ th {
 }
 .btn--mastodon:hover {
   background-color: rgb(34.4, 115.2, 173.6);
-  color: #fff;
-}
-.btn--bluesky {
-  background-color: #1083fe;
-  color: #fff;
-}
-.btn--bluesky:visited {
-  background-color: #1083fe;
-  color: #fff;
-}
-.btn--bluesky:hover {
-  background-color: rgb(12.8, 104.8, 203.2);
   color: #fff;
 }
 .btn--block {
