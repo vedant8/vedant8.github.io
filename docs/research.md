@@ -25,6 +25,11 @@ I work on large-scale data analysis and instrumentation development in high-ener
 
 ## 📡 Instrumentation Development
 <div id="instrumentation" data-aos="fade-left" style="margin-bottom: 2rem;">
+  <div style="flex: 1 1 300px; min-width: 250px;">
+    <img src="/assets/images/LOM_development.png" alt="Spectrum Plot" style="max-width: 100%; border-radius: 12px;">
+  </div>
+
+  <div style="flex: 2 1 400px;">
   <p><strong>Summary:</strong></p>
   <p>
     I have been a lead member of a team developing new optical detector prototypes for IceCube-Gen2, a high-energy expansion to the current IceCube detector, aiming to boost sensitivity to PeV-scale neutrinos, along with a great enhancement to the neutrino source detection sensitivity. I have contributed to modelling, design, testing, and firmware development for the Long Optical Module (LOM), a candidate for IceCube-Gen2. Twelve prototypes will be deployed during the upcoming 2025-26 IceCube Upgrade deployment season, as a field test.
@@ -34,9 +39,13 @@ I work on large-scale data analysis and instrumentation development in high-ener
 ---
 
 ## 📈 Astroparticle Physics with Cosmic Neutrinos
-<div id="astroparticle" data-aos="fade-right" style="margin-bottom: 2rem;">
-  <p><strong>Summary:</strong></p>
-  <p>
-    My analyses focus on identifying astrophysical neutrino signals in the IceCube data and constraining the energy spectrum and possible sources. I use machine learning techniques and maximum likelihood estimation to analyze arrival directions, energies, and flavors of detected events.
-  </p>
+
+<div data-aos="fade-right" style="display: flex; gap: 2rem; flex-wrap: wrap; align-items: center; margin-bottom: 3rem;">
+
+  
+    <p>
+      My analyses focus on identifying astrophysical neutrino signals in IceCube data and constraining the energy spectrum and possible sources. I use machine learning and maximum likelihood estimation to study event directions, energies, and flavors.
+    </p>
+  </div>
+
 </div>
