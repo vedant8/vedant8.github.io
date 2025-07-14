@@ -1,6 +1,6 @@
 ---
 title: "Research"
-permalink: /research/
+permalink: /docs/research/
 layout: single
 author_profile: true
 ---
@@ -23,11 +23,11 @@ I work on large-scale data analysis and instrumentation development in high-ener
 
 ---
 
-## 📡 Instrumentation Development for IceCube Upgrade
+## 📡 Instrumentation Development
 <div id="instrumentation" data-aos="fade-left" style="margin-bottom: 2rem;">
   <p><strong>Summary:</strong></p>
   <p>
-    I have been a lead member of a team developing new optical detector prototypes for IceCube-Gen2, a high-energy expansion to the current IceCube detector, aiming to boost sensitivity and extend the detector volume. I have contributed to design, testing, and firmware development for multiple photodetector modules in this effort.
+    I have been a lead member of a team developing new optical detector prototypes for IceCube-Gen2, a high-energy expansion to the current IceCube detector, aiming to boost sensitivity to PeV-scale neutrinos, along with a great enhancement to the neutrino source detection sensitivity. I have contributed to modelling, design, testing, and firmware development for the Long Optical Module (LOM), a candidate for IceCube-Gen2. Twelve prototypes will be deployed during the upcoming 2025-26 IceCube Upgrade deployment season, as a field test.
   </p>
 </div>
 
