@@ -36,6 +36,14 @@ I work on large-scale data analysis and instrumentation development in high-ener
 
 ---
 
+## South Pole Ice Calibration
+<div id="ice-calibration" data-aos="fade-up" style="margin-bottom: 2rem;">
+  <p>
+    I am currently focusing on the development of firmware for the IceCube Upgrade, an expansion of the current IceCube detector to both improve sensitivity to GeV-scale neutrino oscillation measurements, and to better characterize the optical properties of the ice at the South Pole. I am leading the campaign to perform the optical calibration and modelling of South Pole ice using cameras incorporated into the ice. This involves firmware development tasks, optical bench testing, and the commissioning of a 3D laser scanning system to analyze instrument response.
+  </p>
+</div>
+
+---
 ## Astroparticle Physics with Cosmic Neutrinos
 
 <div id="astroparticle" data-aos="fade-right" style="display: flex; gap: 2rem; flex-wrap: wrap; align-items: center; margin-bottom: 3rem;">
