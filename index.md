@@ -1,7 +1,7 @@
 ---
 layout: home
 author_profile: true
-title: "Vedant Basu, PhD"
+title: "Dr. Vedant Basu"
 excerpt: "Astrophysicist | Instrumentation Developer | Science Communicator"
 # Remove the permalink line entirely to keep the site at the root
 ---
