@@ -1,3 +1,4 @@
+Testing Navigation: {{ site.data.navigation.main[1].title }}
 ---
 layout: page
 title: Home
