@@ -1,30 +1,50 @@
-Testing Navigation: {{ site.data.navigation.main[1].title }}
 ---
 layout: home
-title: 👋 Welcome!
-permalink: /docs/
+author_profile: true
+title: "Vedant Basu, PhD"
+excerpt: "Astrophysicist | Instrumentation Developer | Science Communicator"
+# Remove the permalink line entirely to keep the site at the root
 ---
 
-# 
+<section id="about" style="scroll-margin-top: 80px;">
+  <h2>👋 Welcome!</h2>
+  <p>
+    I am an astrophysicist and instrumentation developer working at the intersection of data, physics, and public outreach. 
+    Currently, my work focuses on characterizing the diffuse astrophysical neutrino flux and developing hardware for the <strong>IceCube Neutrino Observatory</strong>.
+  </p>
+</section>
 
-I'm **Vedant Basu**, an astrophysicist, instrumentation developer and science communicator working at the intersection of data, physics, and public outreach.
+<hr>
 
-Explore my work:
+<section id="research" style="scroll-margin-top: 80px;">
+  <h2>🔭 Research</h2>
+  <p>
+    My research involves cosmic ray accelerators and the study of neutrinos at the South Pole. 
+    I bridge the gap between complex astrophysical data and the instrumentation required to capture it.
+  </p>
+  </section>
 
-- [About Me](https://vedant8.github.io/docs/about/)
-- [Research](https://vedant8.github.io/docs/research/)
-- [Outreach](https://vedant8.github.io/docs/outreach/)
+<hr>
 
----
+<section id="outreach" style="scroll-margin-top: 80px;">
+  <h2>📢 Outreach & Communication</h2>
+  <p>
+    I am a passionate science communicator, dedicated to making high-energy physics accessible to everyone. 
+    Whether it's through public lectures or digital media, I believe in the power of sharing scientific discovery.
+  </p>
+</section>
 
-## 🔗 Find me online
+<hr>
 
-<div style="font-size: 1.2rem;">
-  <a href="mailto:vbasu@icecube.wisc.edu">📧</a>
-  <a href="https://github.com/vedant8" style="margin-right: 1rem;" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="24" style="vertical-align: middle;">
-  </a>
-  <a href="https://www.linkedin.com/in/vedant-basu-12b87611a/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" alt="LinkedIn" width="24" style="vertical-align: middle;"> 
-  </a>
-</div>
+<section id="contact" style="scroll-margin-top: 80px;">
+  <h2>🔗 Find me online</h2>
+  <div style="font-size: 1.5rem;">
+    <a href="mailto:vbasu@icecube.wisc.edu" title="Email">📧</a>
+    <a href="https://github.com/vedant8" style="margin-left: 1rem;" target="_blank">
+      <i class="fab fa-fw fa-github"></i>
+    </a>
+    <a href="https://www.linkedin.com/in/vedant-basu-12b87611a/" style="margin-left: 1rem;" target="_blank">
+      <i class="fab fa-fw fa-linkedin"></i> 
+    </a>
+  </div>
+</section>
