@@ -3,6 +3,10 @@ layout: home
 author_profile: true
 title: "Dr. Vedant Basu"
 excerpt: "Astrophysicist | Instrumentation Developer | Science Communicator"
+header:
+  overlay_image: /assets/images/Pole_Burgee.jpg
+  overlay_filter: 0.4 # This darkens the photo slightly so your name is readable
+  caption: "The South Pole"
 # Remove the permalink line entirely to keep the site at the root
 ---
 
