@@ -1,7 +1,8 @@
 ---
-layout: page
-title: Outreach
+title: "Outreach"
 permalink: /docs/outreach/
+layout: single
+author_profile: true
 ---
 
 ---
