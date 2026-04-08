@@ -1,9 +1,0 @@
-main:
-  - title: "Home"
-    url: "/docs/"
-  - title: "About"
-    url: "/docs/about/"
-  - title: "Research"
-    url: "/docs/research/"
-  - title: "Outreach"
-    url: "/docs/outreach/"
