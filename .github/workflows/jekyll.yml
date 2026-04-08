@@ -19,13 +19,11 @@ jobs:
 
       - name: Install dependencies
         run: |
-          cd docs
           gem install bundler
           bundle install
 
       - name: Build site
         run: |
-          cd docs
           bundle exec jekyll build --destination ../_site
 
       - name: Deploy to GitHub Pages
