@@ -45,3 +45,15 @@ a:hover {
 }
 
 
+/* Hide the skip to content link */
+.skip-to-content, 
+.screen-reader-shortcut, 
+a[href="#content"] {
+  display: none !important;
+}
+
+/* Hide the layout header navigation */
+.site-nav, 
+header .trigger {
+  display: none !important;
+}
