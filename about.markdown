@@ -11,13 +11,13 @@ author_profile: true
 </p>
 
 
-# 👋 What do I do
+# What do I do
 
 Hi! I'm a researcher, programmer, and science communicator. I work at the intersection of physics, instrumentation engineering, and data analysis, and I’m also passionate about engaging in community outreach to inspire scientific curiosity.
 
 
 
-## 📬 <span id="contact">Contact</span>
+## <span id="contact">Contact</span>
 <div style="font-size: 1.2rem;">
   <a href="mailto:vbasu@icecube.wisc.edu">📧</a>
   <a href="https://github.com/vedant8" style="margin-right: 1rem;" target="_blank">
