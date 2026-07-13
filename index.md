@@ -11,7 +11,7 @@ header:
 ---
 
 <section id="about" style="scroll-margin-top: 80px;">
-  <h2>👋 Welcome!</h2>
+  <h2> Welcome!</h2>
   <p>
     I am an astrophysicist and instrumentation developer working at the intersection of data, physics, and public outreach. 
     Currently, my work focuses on characterizing the diffuse astrophysical neutrino flux and developing hardware for the <strong>IceCube Neutrino Observatory</strong>.
@@ -21,7 +21,7 @@ header:
 <hr>
 
 <section id="research" style="scroll-margin-top: 80px;">
-  <h2>🔭 Research</h2>
+  <h2> Research</h2>
   <p>
     My research involves cosmic ray accelerators and the study of neutrinos at the South Pole. 
     I bridge the gap between complex astrophysical data and the instrumentation required to capture it.
@@ -31,7 +31,7 @@ header:
 <hr>
 
 <section id="outreach" style="scroll-margin-top: 80px;">
-  <h2>📢 Outreach & Communication</h2>
+  <h2> Outreach & Communication</h2>
   <p>
     I am a passionate science communicator, dedicated to making high-energy physics accessible to everyone. 
     Whether it's through public lectures or digital media, I believe in the power of sharing scientific discovery.

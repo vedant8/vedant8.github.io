@@ -7,9 +7,9 @@ author_profile: true
 
 I work on large-scale data analysis and instrumentation development in high-energy astrophysics, with a focus on particle detection and signal processing. My recent collaborations include work on the [IceCube](https://icecube.wisc.edu/) Neutrino Observatory at the South Pole and the Compact Muon Solenoid (CMS) at CERN, Geneva. I am particularly interested in measurements of the astrophysical neutrino spectrum and what this tells us about cosmic ray accelerators from a multimessenger perspective.
 
-- [🔭 Calibration of South Pole ice using embedded cameras](#ice-calibration)
-- [📈 Astroparticle Physics with Cosmic Neutrinos](#astroparticle)
-- [📡 Instrumentation Development for IceCube Upgrade](#instrumentation)
+- [ Calibration of South Pole ice using embedded cameras](#ice-calibration)
+- [ Astroparticle Physics with Cosmic Neutrinos](#astroparticle)
+- [ Instrumentation Development for IceCube Upgrade](#instrumentation)
 
 ---
 
@@ -50,6 +50,6 @@ I work on large-scale data analysis and instrumentation development in high-ener
 </div>
 
 <div data-aos="zoom-in" style="background-color: #eee; padding: 2rem; border-radius: 10px;">
-  <h3>🚀 This should zoom in when you scroll!</h3>
+  <h3> This should zoom in when you scroll!</h3>
   <p>If this doesn't animate, AOS isn't loading. We'll fix it.</p>
 </div>
