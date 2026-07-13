@@ -18,3 +18,18 @@
 .site-footer .downloads {
   display: none !important;
 }
+
+/* Hide the skip to content link at the top */
+#skip-to-content, 
+.skip-to-content, 
+a[href="#content"] {
+  display: none !important;
+}
+
+/* Hide the About link / navigation menu at the top */
+.site-nav, 
+.trigger, 
+header .nav-links,
+#header-nav {
+  display: none !important;
+}
