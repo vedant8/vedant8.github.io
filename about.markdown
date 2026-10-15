@@ -11,10 +11,9 @@ author_profile: true
 </p>
 
 
-# What do I do
+# What I do
 
-Hi! I'm a researcher, programmer, and science communicator. I work at the intersection of physics, instrumentation engineering, and data analysis, and I’m also passionate about engaging in community outreach to inspire scientific curiosity.
-
+Hi! I'm an astrophysicist, engineer, and science communicator. I work at the intersection of physics, instrumentation engineering, and data analysis, and I’m also passionate about engaging in community outreach to inspire scientific curiosity. The primary focus of my research is the IceCube Neutrino Observatory, a research facility located at the South Pole which studies particles called neutrinos which arrive from deep in the cosmos.
 
 
 ## <span id="contact">Contact</span>
