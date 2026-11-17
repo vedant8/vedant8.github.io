@@ -21,18 +21,35 @@ I work on large-scale data analysis and instrumentation development in high-ener
     <img src="{{ '/assets/images/EnergySpectrum.png' | relative_url }}" alt="Neutrino Energy Spectrum" style="max-width: 100%; border-radius: 12px; box-shadow: 0 4px 14px rgba(0,0,0,0.08);">
   </div>
   <div style="flex: 2 1 400px;">
-    <div style="border-left: 4px solid #c59b27; background: #fbfaf5; border-top: 1px solid #efe9d5; border-right: 1px solid #efe9d5; border-bottom: 1px solid #efe9d5; padding: 0.85rem 1.1rem; border-radius: 0 8px 8px 0; margin-bottom: 1.25rem; font-size: 0.95rem; line-height: 1.55;">
-      <span style="display: inline-block; font-weight: 700; letter-spacing: 0.04em; text-transform: uppercase; font-size: 0.78rem; color: #9a7414; margin-bottom: 0.25rem;">
-        <i class="fas fa-award" style="margin-right: 0.35rem;"></i> 2026 Nobel Prize in Physics &bull; IceCube Collaboration
-      </span><br>
-      Building on the Nobel-recognized discovery of high-energy astrophysical neutrinos—led by IceCube Principal Investigator Francis Halzen—my work maps the fine spectral structure of this cosmic flux to uncover its hidden engines.
-    </div>
     <p style="margin-top: 0;">
       Neutrinos are almost massless neutral particles that interact only weakly with matter. Because they travel through the Universe unimpeded by intervening dust and undeflected by magnetic fields, they point directly back to extreme cosmic-ray accelerators. That same weak interaction makes them notoriously difficult to catch, requiring a gigaton-scale detector: the IceCube Neutrino Observatory instruments a cubic kilometer of deep glacial ice at the South Pole to detect the Cherenkov light produced by rare neutrino interactions.
     </p>
     <p style="margin-bottom: 0;">
       My research focuses on isolating astrophysical neutrino signals in IceCube data and precision-mapping their energy spectrum and origins. Using machine learning and multidimensional likelihood estimation, my collaborators and I uncovered evidence that the cosmic neutrino spectrum deviates from a simple power law—revealing spectral curvature that constrains the radiation fields and physical environments of their sources.
     </p>
+     <div style="display: flex; align-items: flex-start; gap: 0.85rem; border-left: 4px solid #c59b27; background: #fbfaf5; border-top: 1px solid #efe9d5; border-right: 1px solid #efe9d5; border-bottom: 1px solid #efe9d5; padding: 0.85rem 1.1rem; border-radius: 0 8px 8px 0; margin-bottom: 1.25rem; font-size: 0.95rem; line-height: 1.55;">
+      <!-- Miniature Gold Nobel Medallion SVG -->
+      <svg width="38" height="38" viewBox="0 0 64 64" style="flex-shrink: 0; margin-top: 2px;" aria-label="Nobel Prize Medal">
+        <defs>
+          <radialGradient id="nobelGold" cx="35%" cy="30%" r="70%">
+            <stop offset="0%" stop-color="#f7e28b"/>
+            <stop offset="55%" stop-color="#d4af37"/>
+            <stop offset="100%" stop-color="#9a7414"/>
+          </radialGradient>
+        </defs>
+        <circle cx="32" cy="32" r="29" fill="url(#nobelGold)" stroke="#8a6508" stroke-width="2"/>
+        <circle cx="32" cy="32" r="24" fill="none" stroke="#fdf3c4" stroke-width="1.2" opacity="0.8"/>
+        <!-- Profile Silhouette -->
+        <path d="M31 18c-4.5 0-8 3.5-8 8 0 2.6 1.2 4.9 3 6.4-.8 1.6-2.5 3.6-4.5 5.1h19c-1.8-1.5-3.2-3.4-3.8-5.1 1.9-1.5 3.3-3.8 3.3-6.4 0-4.5-4-8-9-8z" fill="#7c5a0b" opacity="0.85"/>
+        <text x="32" y="51" text-anchor="middle" font-family="Georgia, serif" font-size="6.5" font-weight="bold" fill="#6b4c06" letter-spacing="0.8">NOBEL</text>
+      </svg>
+      <div>
+        <span style="display: inline-block; font-weight: 700; letter-spacing: 0.04em; text-transform: uppercase; font-size: 0.78rem; color: #9a7414; margin-bottom: 0.2rem;">
+          2026 Nobel Prize in Physics &bull; IceCube Collaboration
+        </span><br>
+        Building on the Nobel-recognized discovery of high-energy astrophysical neutrinos—led by IceCube Principal Investigator Francis Halzen—my work maps the fine spectral structure of this cosmic flux to uncover its hidden engines.
+      </div>
+    </div>
   </div>
 </div>
 <!-- ## Astroparticle Physics with Cosmic Neutrinos
