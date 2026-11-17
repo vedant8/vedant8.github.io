@@ -77,38 +77,22 @@ I work on large-scale data analysis and instrumentation development in high-ener
       Neutrinos are almost massless neutral particles that interact only weakly with matter, traveling through the Universe unimpeded by dust and undeflected by magnetic fields to point directly back to extreme cosmic-ray accelerators. The IceCube Neutrino Observatory instruments a cubic kilometer of deep glacial ice at the South Pole to detect the Cherenkov radiation produced by these rare interactions.
     </p>
     <p>
-      My research focuses on isolating astrophysical neutrino signals in IceCube data and precision-mapping their energy spectrum and origins. Using machine learning and multidimensional likelihood estimation, my collaborators and I uncovered evidence that the cosmic neutrino spectrum deviates from a simple power law, revealing spectral curvature that constrains the radiation fields and physical environments of their sources.
+      My research focuses on isolating astrophysical neutrino signals in IceCube data and precision-mapping their energy spectrum and origins. Using advanced selection and modeling techniques, including machine learning methods and multidimensional likelihood estimation, my collaborators and I uncovered evidence that the cosmic neutrino spectrum deviates from a simple power law, revealing spectral curvature that constrains the radiation fields and physical environments of their sources.
     </p>    
   <div style="flex: 2 1 380px;">
-    <div style="display: flex; align-items: flex-start; gap: 0.85rem; border-left: 4px solid #c59b27; background: #fbfaf5; border-top: 1px solid #efe9d5; border-right: 1px solid #efe9d5; border-bottom: 1px solid #efe9d5; padding: 0.8rem 1rem; border-radius: 0 8px 8px 0; margin-bottom: 1.15rem; font-size: 0.92rem; line-height: 1.5;">
-      <img src="{{ '/assets/images/nobel.png' | relative_url }}" alt="Nobel Prize Medal" style="width: 38px; height: 38px; object-fit: contain; flex-shrink: 0; margin-top: 2px;">
+    <div style="display: flex; align-items: flex-start; gap: 0.85rem; border-left: 4px solid #c59b27; background: #fbfaf5; border-top: 1px solid #efe9d5; border-right: 1px solid #efe9d5; border-bottom: 1px solid #efe9d5; padding: 0.85rem 1.1rem; border-radius: 0 8px 8px 0; margin-bottom: 1.25rem; font-size: 0.95rem; line-height: 1.55;">
+      <!-- Miniature Gold Nobel Medallion SVG -->
+      <img src="{{ '/assets/images/Nobel_Prize.png' | relative_url }}" alt="Nobel Prize Medal" style="width: 40px; height: 40px; object-fit: contain; flex-shrink: 0; margin-top: 2px;">
       <div>
-        <span style="display: inline-block; font-weight: 700; letter-spacing: 0.04em; text-transform: uppercase; font-size: 0.76rem; color: #9a7414; margin-bottom: 0.15rem;">
+        <span style="display: inline-block; font-weight: 700; letter-spacing: 0.04em; text-transform: uppercase; font-size: 0.78rem; color: #9a7414; margin-bottom: 0.2rem;">
           2026 Nobel Prize in Physics &bull; IceCube Collaboration
         </span><br>
-        Building on the Nobel-recognized discovery of high-energy astrophysical neutrinos—led by IceCube PI Francis Halzen—my work maps the fine spectral structure of this cosmic flux to uncover its hidden engines.
+        Building on the Nobel-recognized discovery of high-energy astrophysical neutrinos, led by IceCube Principal Investigator Francis Halzen, my work maps the fine spectral structure of this cosmic flux to uncover its hidden engines.
       </div>
     </div>
     <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 1rem;">
       <a href="https://icecube.wisc.edu/" target="_blank" rel="noopener" class="research-pill"><i class="fas fa-external-link-alt"></i> IceCube Collaboration</a>
     </div>
-  </div>
-</div>
-
-## Astroparticle Physics with Cosmic Neutrinos
-
-<div id="astroparticle" data-aos="fade-right" style="display: flex; gap: 2rem; flex-wrap: wrap; align-items: center; margin-bottom: 3rem;">
-  <div style="flex: 1 1 300px; min-width: 250px;">
-    <img src="{{ '/assets/images/EnergySpectrum.png' | relative_url }}" alt="Neutrino Energy Spectrum" style="max-width: 100%; border-radius: 12px; box-shadow: 0 4px 14px rgba(0,0,0,0.08);">
-  </div>
-  <div style="flex: 2 1 400px;">
-    <p style="margin-top: 0;">
-      Neutrinos are almost massless neutral particles that interact only weakly with matter. Because they travel through the Universe unimpeded by intervening dust and undeflected by magnetic fields, they point directly back to extreme cosmic-ray accelerators. That same weak interaction makes them notoriously difficult to catch, requiring a gigaton-scale detector: the IceCube Neutrino Observatory instruments a cubic kilometer of deep glacial ice at the South Pole to detect the Cherenkov light produced by rare neutrino interactions.
-    </p>
-    <p style="margin-bottom: 0;">
-      My research focuses on isolating astrophysical neutrino signals in IceCube data and precision-mapping their energy spectrum and origins. Using machine learning and multidimensional likelihood estimation, my collaborators and I uncovered evidence that the cosmic neutrino spectrum deviates from a simple power law—revealing spectral curvature that constrains the radiation fields and physical environments of their sources.
-    </p>
-     
   </div>
 </div>
 <!-- ## Astroparticle Physics with Cosmic Neutrinos
@@ -141,16 +125,38 @@ I work on large-scale data analysis and instrumentation development in high-ener
 </div>
 ---
 
-## South Pole Ice Calibration
+## South Pole Ice Imaging and Calibration
 <div id="ice-calibration" data-aos="fade-up" style="margin-bottom: 2rem;">
-  <div style="flex: 1 1 300px; min-width: 250px;">
-    <img src="/assets/images/mDOM_descent.jpeg" alt="Module Deployment in Antarctica" style="max-width: 60%; border-radius: 12px;">
+  <div style="flex: 1 1 280px; min-width: 240px;">
+    <img class="spectrum-zoom" src="{{ '/assets/images/mDOM_descent.jpeg' | relative_url }}" alt="Module Deployment in Antarctica" style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
   </div>
   <div style="flex: 2 1 400px;">
   <p>
-    One of the major science goals of the [IceCube Upgrade](https://icecube.wisc.edu/news/press-releases/2026/02/the-icecube-neutrino-observatory-gets-a-major-upgrade-beneath-the-ice/), a recent expansion of the current IceCube detector to study GeV-scale neutrino oscillation measurements
+    One of the major science goals of the <a href="https://icecube.wisc.edu/news/press-releases/2026/02/the-icecube-neutrino-observatory-gets-a-major-upgrade-beneath-the-ice/" target="_blank" rel="noopener">IceCube Upgrade</a>, a recent expansion of the current IceCube detector to study GeV-scale neutrino oscillation measurements
     I am currently focusing on the development of firmware for the Gen2-DOM, an expansion of the current IceCube detector to both improve sensitivity to PeV, and to better characterize the optical properties of the ice at the South Pole. I am leading the campaign to perform the optical calibration and modelling of South Pole ice using cameras incorporated into the ice. This involves firmware development tasks, optical bench testing, and the commissioning of a 3D laser scanning system to analyze instrument response.
   </p>
+  <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 1rem;">
+      <a href="https://icecube.wisc.edu/news/press-releases/2026/02/the-icecube-neutrino-observatory-gets-a-major-upgrade-beneath-the-ice/" target="_blank" rel="noopener" class="research-pill"><i class="fas fa-newspaper"></i> IceCube Upgrade Press Release (Feb 2026)</a>
+    </div>
+</div>
+
+## IceCube Upgrade Camera Calibration & Geometry
+
+<div id="upgrade" class="research-card reverse" data-aos="fade-up">
+  <div style="flex: 1 1 280px; min-width: 240px;">
+    <img class="spectrum-zoom" src="{{ '/assets/images/UpgradeCamera.png' | relative_url }}" alt="IceCube Upgrade Camera Calibration" style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
+  </div>
+  <div style="flex: 2 1 380px;">
+    <p style="margin-top: 0;">
+      Precision neutrino oscillation and low-energy reconstruction depend on knowing the exact positions, orientations, and optical properties of every sensor frozen deep into the South Pole ice. Following the deployment of the <a href="https://icecube.wisc.edu/news/press-releases/2026/02/the-icecube-neutrino-observatory-gets-a-major-upgrade-beneath-the-ice/" target="_blank" rel="noopener">IceCube Upgrade</a>, I led the image-based geometry calibration across 409 camera-equipped optical modules.
+    </p>
+    <p>
+      By triangulating inter-string LED flashers and hole-ice refreeze features across multi-camera images, this pipeline independently constrains horizontal module coordinates, decouples vertical string-depth offsets from individual module tilts, and characterizes local ice scattering in the drill column.
+    </p>
+    <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 1rem;">
+      <a href="https://icecube.wisc.edu/news/press-releases/2026/02/the-icecube-neutrino-observatory-gets-a-major-upgrade-beneath-the-ice/" target="_blank" rel="noopener" class="research-pill"><i class="fas fa-newspaper"></i> IceCube Upgrade Press Release (Feb 2026)</a>
+    </div>
+  </div>
 </div>
 
 ---
