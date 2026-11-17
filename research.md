@@ -72,7 +72,7 @@ I work on large-scale data analysis and instrumentation development in high-ener
 ## South Pole Ice Calibration
 <div id="ice-calibration" data-aos="fade-up" style="margin-bottom: 2rem;">
   <div style="flex: 1 1 300px; min-width: 250px;">
-    <img src="/assets/images/LOM_deployment.jpg" alt="LOM Deployment in Antarctica" style="max-width: 100%; border-radius: 12px;">
+    <img src="/assets/images/mDOM_descent.jpeg" alt="Module Deployment in Antarctica" style="max-width: 100%; border-radius: 12px;">
   </div>
   <div style="flex: 2 1 400px;">
   <p>
