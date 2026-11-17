@@ -7,13 +7,34 @@ author_profile: true
 
 I work on large-scale data analysis and instrumentation development in high-energy astrophysics, with a focus on particle detection and signal processing. My recent collaborations include work on the [IceCube](https://icecube.wisc.edu/) Neutrino Observatory at the South Pole and the Compact Muon Solenoid (CMS) at CERN, Geneva. I am particularly interested in measurements of the astrophysical neutrino spectrum and what this tells us about cosmic ray accelerators from a multimessenger perspective.
 
-- [ Calibration of South Pole ice using embedded cameras](#ice-calibration)
 - [ Astroparticle Physics with Cosmic Neutrinos](#astroparticle)
 - [ Instrumentation Development for IceCube Upgrade](#instrumentation)
+- [ Calibration of South Pole ice using embedded cameras](#ice-calibration)
 
 ---
 
 ## Astroparticle Physics with Cosmic Neutrinos
+
+<div id="astroparticle" data-aos="fade-right" style="display: flex; gap: 2rem; flex-wrap: wrap; align-items: center; margin-bottom: 3rem;">
+  <div style="flex: 1 1 300px; min-width: 250px;">
+    <img src="{{ '/assets/images/EnergySpectrum.png' | relative_url }}" alt="Neutrino Energy Spectrum" style="max-width: 100%; border-radius: 12px; box-shadow: 0 4px 14px rgba(0,0,0,0.08);">
+  </div>
+  <div style="flex: 2 1 400px;">
+    <div style="border-left: 4px solid #c59b27; background: #fbfaf5; border-top: 1px solid #efe9d5; border-right: 1px solid #efe9d5; border-bottom: 1px solid #efe9d5; padding: 0.85rem 1.1rem; border-radius: 0 8px 8px 0; margin-bottom: 1.25rem; font-size: 0.95rem; line-height: 1.55;">
+      <span style="display: inline-block; font-weight: 700; letter-spacing: 0.04em; text-transform: uppercase; font-size: 0.78rem; color: #9a7414; margin-bottom: 0.25rem;">
+        <i class="fas fa-award" style="margin-right: 0.35rem;"></i> 2026 Nobel Prize in Physics &bull; IceCube Collaboration
+      </span><br>
+      Building on the Nobel-recognized discovery of high-energy astrophysical neutrinos—led by IceCube Principal Investigator Francis Halzen—my work maps the fine spectral structure of this cosmic flux to uncover its hidden engines.
+    </div>
+    <p style="margin-top: 0;">
+      Neutrinos are almost massless neutral particles that interact only weakly with matter. Because they travel through the Universe unimpeded by intervening dust and undeflected by magnetic fields, they point directly back to extreme cosmic-ray accelerators. That same weak interaction makes them notoriously difficult to catch, requiring a gigaton-scale detector: the IceCube Neutrino Observatory instruments a cubic kilometer of deep glacial ice at the South Pole to detect the Cherenkov light produced by rare neutrino interactions.
+    </p>
+    <p style="margin-bottom: 0;">
+      My research focuses on isolating astrophysical neutrino signals in IceCube data and precision-mapping their energy spectrum and origins. Using machine learning and multidimensional likelihood estimation, my collaborators and I uncovered evidence that the cosmic neutrino spectrum deviates from a simple power law—revealing spectral curvature that constrains the radiation fields and physical environments of their sources.
+    </p>
+  </div>
+</div>
+<!-- ## Astroparticle Physics with Cosmic Neutrinos
 
 <div id="astroparticle" data-aos="fade-right" style="display: flex; gap: 2rem; flex-wrap: wrap; align-items: center; margin-bottom: 3rem;">
  <div style="flex: 1 1 300px; min-width: 250px;">
@@ -26,18 +47,18 @@ I work on large-scale data analysis and instrumentation development in high-ener
     </p>
   </div>
 
-</div>
+</div> -->
 ---
 
 ## Instrumentation Development
 <div id="instrumentation" data-aos="fade-left" style="margin-bottom: 2rem;">
   <div style="flex: 1 1 300px; min-width: 250px;">
-    <img src="/assets/images/LOM_development.png" alt="LOM Development" style="max-width: 100%; border-radius: 12px;">
+    <img src="/assets/images/LOM_deployment.png" alt="LOM Deployment in Antarctica" style="max-width: 100%; border-radius: 12px;">
   </div>
 
   <div style="flex: 2 1 400px;">
   <p>
-    I have been a lead member of a team developing new optical detector prototypes for IceCube-Gen2, a high-energy expansion to the current IceCube detector, aiming to boost sensitivity to PeV-scale neutrinos, along with a great enhancement to the neutrino source detection sensitivity. I have contributed to modelling, design, testing, and firmware development for the Long Optical Module (LOM), a candidate for IceCube-Gen2. Twelve prototypes will be deployed during the upcoming 2025-26 IceCube Upgrade deployment season, as a field test.
+    I have been a lead member of a team developing new optical detector prototypes for IceCube-Gen2, a high-energy expansion to the current IceCube detector, aiming to boost sensitivity to PeV-scale neutrinos, along with a great enhancement to the neutrino source detection sensitivity. I have contributed to modelling, design, testing, and firmware development for the Long Optical Module (LOM), a candidate for IceCube-Gen2. Twelve prototypes were deployed during the upcoming 2025-26 IceCube Upgrade deployment season in a successful field test.
   </p>
  </div>
 </div>
@@ -45,8 +66,13 @@ I work on large-scale data analysis and instrumentation development in high-ener
 
 ## South Pole Ice Calibration
 <div id="ice-calibration" data-aos="fade-up" style="margin-bottom: 2rem;">
+  <div style="flex: 1 1 300px; min-width: 250px;">
+    <img src="/assets/images/LOM_deployment.png" alt="LOM Deployment in Antarctica" style="max-width: 100%; border-radius: 12px;">
+  </div>
+  <div style="flex: 2 1 400px;">
   <p>
-    I am currently focusing on the development of firmware for the IceCube Upgrade, an expansion of the current IceCube detector to both improve sensitivity to GeV-scale neutrino oscillation measurements, and to better characterize the optical properties of the ice at the South Pole. I am leading the campaign to perform the optical calibration and modelling of South Pole ice using cameras incorporated into the ice. This involves firmware development tasks, optical bench testing, and the commissioning of a 3D laser scanning system to analyze instrument response.
+    One of the major science goals of the [IceCube Upgrade] (https://icecube.wisc.edu/news/press-releases/2026/02/the-icecube-neutrino-observatory-gets-a-major-upgrade-beneath-the-ice/), a recent expansion of the current IceCube detector to study GeV-scale neutrino oscillation measurements
+    I am currently focusing on the development of firmware for the , an expansion of the current IceCube detector to both improve sensitivity to , and to better characterize the optical properties of the ice at the South Pole. I am leading the campaign to perform the optical calibration and modelling of South Pole ice using cameras incorporated into the ice. This involves firmware development tasks, optical bench testing, and the commissioning of a 3D laser scanning system to analyze instrument response.
   </p>
 </div>
 

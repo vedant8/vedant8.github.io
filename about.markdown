@@ -13,8 +13,7 @@ author_profile: true
 
 # What I do
 
-Hi! I'm an astrophysicist, engineer, and science communicator. I work at the intersection of physics, instrumentation engineering, and data analysis, and I’m also passionate about engaging in community outreach to inspire scientific curiosity. The primary focus of my research is the IceCube Neutrino Observatory, a research facility located at the South Pole which studies particles called neutrinos which arrive from deep in the cosmos.
-
+Hello there! I'm an astrophysicist, engineer, and science communicator based in Salt Lake City, UT. I work at the intersection of experimental physics, instrumentation engineering, and data analysis, and I’m also passionate about engaging in community outreach to inspire scientific curiosity. The primary focus of my research is the IceCube Neutrino Observatory at the South Pole, a research facility located at the South Pole which studies particles called neutrinos which arrive from deep in the cosmos. I'm also closely involved in developing robust alternate energy solutions for remote environments, research arising from my field deployments to Antarctica with IceCube.
 
 ## <span id="contact">Contact</span>
 <div style="font-size: 1.2rem;">
