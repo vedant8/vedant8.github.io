@@ -140,25 +140,6 @@ I work on large-scale data analysis and instrumentation development in high-ener
     </div>
 </div>
 
-## IceCube Upgrade Camera Calibration & Geometry
-
-<div id="upgrade" class="research-card reverse" data-aos="fade-up">
-  <div style="flex: 1 1 280px; min-width: 240px;">
-    <img class="spectrum-zoom" src="{{ '/assets/images/UpgradeCamera.png' | relative_url }}" alt="IceCube Upgrade Camera Calibration" style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
-  </div>
-  <div style="flex: 2 1 380px;">
-    <p style="margin-top: 0;">
-      Precision neutrino oscillation and low-energy reconstruction depend on knowing the exact positions, orientations, and optical properties of every sensor frozen deep into the South Pole ice. Following the deployment of the <a href="https://icecube.wisc.edu/news/press-releases/2026/02/the-icecube-neutrino-observatory-gets-a-major-upgrade-beneath-the-ice/" target="_blank" rel="noopener">IceCube Upgrade</a>, I led the image-based geometry calibration across 409 camera-equipped optical modules.
-    </p>
-    <p>
-      By triangulating inter-string LED flashers and hole-ice refreeze features across multi-camera images, this pipeline independently constrains horizontal module coordinates, decouples vertical string-depth offsets from individual module tilts, and characterizes local ice scattering in the drill column.
-    </p>
-    <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 1rem;">
-      <a href="https://icecube.wisc.edu/news/press-releases/2026/02/the-icecube-neutrino-observatory-gets-a-major-upgrade-beneath-the-ice/" target="_blank" rel="noopener" class="research-pill"><i class="fas fa-newspaper"></i> IceCube Upgrade Press Release (Feb 2026)</a>
-    </div>
-  </div>
-</div>
-
 ---
 <div data-aos="zoom-in" style="background-color: #eee; padding: 2rem; border-radius: 10px;">
   <h3> This should zoom in when you scroll!</h3>
