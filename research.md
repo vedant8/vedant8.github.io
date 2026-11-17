@@ -29,20 +29,7 @@ I work on large-scale data analysis and instrumentation development in high-ener
     </p>
      <div style="display: flex; align-items: flex-start; gap: 0.85rem; border-left: 4px solid #c59b27; background: #fbfaf5; border-top: 1px solid #efe9d5; border-right: 1px solid #efe9d5; border-bottom: 1px solid #efe9d5; padding: 0.85rem 1.1rem; border-radius: 0 8px 8px 0; margin-bottom: 1.25rem; font-size: 0.95rem; line-height: 1.55;">
       <!-- Miniature Gold Nobel Medallion SVG -->
-      <svg width="38" height="38" viewBox="0 0 64 64" style="flex-shrink: 0; margin-top: 2px;" aria-label="Nobel Prize Medal">
-        <defs>
-          <radialGradient id="nobelGold" cx="35%" cy="30%" r="70%">
-            <stop offset="0%" stop-color="#f7e28b"/>
-            <stop offset="55%" stop-color="#d4af37"/>
-            <stop offset="100%" stop-color="#9a7414"/>
-          </radialGradient>
-        </defs>
-        <circle cx="32" cy="32" r="29" fill="url(#nobelGold)" stroke="#8a6508" stroke-width="2"/>
-        <circle cx="32" cy="32" r="24" fill="none" stroke="#fdf3c4" stroke-width="1.2" opacity="0.8"/>
-        <!-- Profile Silhouette -->
-        <path d="M31 18c-4.5 0-8 3.5-8 8 0 2.6 1.2 4.9 3 6.4-.8 1.6-2.5 3.6-4.5 5.1h19c-1.8-1.5-3.2-3.4-3.8-5.1 1.9-1.5 3.3-3.8 3.3-6.4 0-4.5-4-8-9-8z" fill="#7c5a0b" opacity="0.85"/>
-        <text x="32" y="51" text-anchor="middle" font-family="Georgia, serif" font-size="6.5" font-weight="bold" fill="#6b4c06" letter-spacing="0.8">NOBEL</text>
-      </svg>
+      <img src="{{ '/assets/images/Nobel_Prize.png' | relative_url }}" alt="Nobel Prize Medal" style="width: 40px; height: 40px; object-fit: contain; flex-shrink: 0; margin-top: 2px;">
       <div>
         <span style="display: inline-block; font-weight: 700; letter-spacing: 0.04em; text-transform: uppercase; font-size: 0.78rem; color: #9a7414; margin-bottom: 0.2rem;">
           2026 Nobel Prize in Physics &bull; IceCube Collaboration
@@ -71,7 +58,7 @@ I work on large-scale data analysis and instrumentation development in high-ener
 ## Instrumentation Development
 <div id="instrumentation" data-aos="fade-left" style="margin-bottom: 2rem;">
   <div style="flex: 1 1 300px; min-width: 250px;">
-    <img src="/assets/images/LOM_deployment.png" alt="LOM Deployment in Antarctica" style="max-width: 100%; border-radius: 12px;">
+    <img src="/assets/images/LOM_development.png" alt="LOM Deployment in Antarctica" style="max-width: 100%; border-radius: 12px;">
   </div>
 
   <div style="flex: 2 1 400px;">
@@ -85,7 +72,7 @@ I work on large-scale data analysis and instrumentation development in high-ener
 ## South Pole Ice Calibration
 <div id="ice-calibration" data-aos="fade-up" style="margin-bottom: 2rem;">
   <div style="flex: 1 1 300px; min-width: 250px;">
-    <img src="/assets/images/LOM_deployment.png" alt="LOM Deployment in Antarctica" style="max-width: 100%; border-radius: 12px;">
+    <img src="/assets/images/LOM_deployment.jpg" alt="LOM Deployment in Antarctica" style="max-width: 100%; border-radius: 12px;">
   </div>
   <div style="flex: 2 1 400px;">
   <p>
