@@ -77,7 +77,7 @@ I work on large-scale data analysis and instrumentation development in high-ener
   <div style="flex: 2 1 400px;">
   <p>
     One of the major science goals of the [IceCube Upgrade] (https://icecube.wisc.edu/news/press-releases/2026/02/the-icecube-neutrino-observatory-gets-a-major-upgrade-beneath-the-ice/), a recent expansion of the current IceCube detector to study GeV-scale neutrino oscillation measurements
-    I am currently focusing on the development of firmware for the , an expansion of the current IceCube detector to both improve sensitivity to , and to better characterize the optical properties of the ice at the South Pole. I am leading the campaign to perform the optical calibration and modelling of South Pole ice using cameras incorporated into the ice. This involves firmware development tasks, optical bench testing, and the commissioning of a 3D laser scanning system to analyze instrument response.
+    I am currently focusing on the development of firmware for the Gen2-DOM, an expansion of the current IceCube detector to both improve sensitivity to PeV, and to better characterize the optical properties of the ice at the South Pole. I am leading the campaign to perform the optical calibration and modelling of South Pole ice using cameras incorporated into the ice. This involves firmware development tasks, optical bench testing, and the commissioning of a 3D laser scanning system to analyze instrument response.
   </p>
 </div>
 
