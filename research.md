@@ -76,7 +76,7 @@ I work on large-scale data analysis and instrumentation development in high-ener
 
 <div id="ice-calibration" class="research-card" data-aos="fade-up">
   <div class="card-media">
-    <div class="figure-container" style="max-width: 72%;">
+    <div class="figure-container" style="max-width: 100%;">
       <img src="{{ '/assets/images/mDOM_descent.jpeg' | relative_url }}" alt="Module Deployment in Antarctica">
       <div class="figure-caption">
         <strong>In-Ice Camera Calibration:</strong> Multi-sensor module descending into a South Pole borehole to map refreeze geometry.
