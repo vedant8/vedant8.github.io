@@ -27,7 +27,7 @@ I work on large-scale data analysis and instrumentation development in high-ener
         <span style="display: inline-block; font-weight: 700; letter-spacing: 0.04em; text-transform: uppercase; font-size: 0.78rem; color: #9a7414; margin-bottom: 0.2rem;">
           2026 Nobel Prize in Physics &bull; IceCube Collaboration
         </span><br>
-        Building on the Nobel-recognized discovery of high-energy astrophysical neutrinos, led by IceCube Principal Investigator Francis Halzen, my work maps the fine spectral structure of this cosmic flux to uncover its hidden engines.
+        Building on the Nobel-recognized discovery of high-energy astrophysical neutrinos, led by IceCube Principal Investigator Francis Halzen, my work maps the fine spectral structure of this cosmic flux to uncover its hidden engines. For more information, why not read what the Nobel Committee had to say in the <a href="https://www.nobelprize.org/uploads/2026/10/advanced-physicsprize2026.pdf" target="_blank" rel="noopener" class="research-pill"><i class="fas fa-newspaper"></i> Scientific Background to the Nobel Prize in Physics (Oct 2026)</a>
       </div>
     </div>
     <p style="margin-top: 0;">
@@ -48,7 +48,7 @@ I work on large-scale data analysis and instrumentation development in high-ener
 
 <div id="instrumentation" class="research-card reverse" data-aos="fade-up">
   <div style="flex: 1 1 280px; min-width: 240px;">
-    <img class="spectrum-zoom" src="{{ '/assets/images/LOM_development.png' | relative_url }}" alt="LOM Deployment in Antarctica" style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
+    <img class="spectrum-zoom" src="{{ '/assets/images/LOM_deployment.jpg' | relative_url }}" alt="LOM Deployment in Antarctica" style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
   </div>
   <div style="flex: 2 1 380px;">
     <p style="margin-top: 0;">
@@ -66,7 +66,7 @@ I work on large-scale data analysis and instrumentation development in high-ener
 
 <div id="ice-calibration" class="research-card" data-aos="fade-up">
   <div style="flex: 1 1 280px; min-width: 240px;">
-    <img class="spectrum-zoom" src="{{ '/assets/images/mDOM_descent.jpeg' | relative_url }}" alt="Module Deployment in Antarctica" style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
+    <img class="spectrum-zoom" src="{{ '/assets/images/mDOM_descent.jpeg' | relative_url }}" alt="Module Deployment in Antarctica" style="max-width: 60%; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
   </div>
   <div style="flex: 2 1 380px;">
     <p style="margin-top: 0;">
