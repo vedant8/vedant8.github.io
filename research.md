@@ -37,8 +37,8 @@ I work on large-scale data analysis and instrumentation development in high-ener
       </div>
     </div>
   </div>
-  <!-- <div style="flex: 2 1 380px;">
-    <div style="display: flex; align-items: flex-start; gap: 0.85rem; border-left: 4px solid #c59b27; background: #fbfaf5; border-top: 1px solid #efe9d5; border-right: 1px solid #efe9d5; border-bottom: 1px solid #efe9d5; padding: 0.85rem 1.1rem; border-radius: 0 8px 8px 0; margin-bottom: 1.25rem; font-size: 0.95rem; line-height: 1.55;">
+  <div style="flex: 2 1 380px;">
+    <!-- <div style="display: flex; align-items: flex-start; gap: 0.85rem; border-left: 4px solid #c59b27; background: #fbfaf5; border-top: 1px solid #efe9d5; border-right: 1px solid #efe9d5; border-bottom: 1px solid #efe9d5; padding: 0.85rem 1.1rem; border-radius: 0 8px 8px 0; margin-bottom: 1.25rem; font-size: 0.95rem; line-height: 1.55;">
       <img src="{{ '/assets/images/Nobel_Prize.png' | relative_url }}" alt="Nobel Prize Medal" style="width: 40px; height: 40px; object-fit: contain; flex-shrink: 0; margin-top: 2px;">
       <div>
         <span style="display: inline-block; font-weight: 700; letter-spacing: 0.04em; text-transform: uppercase; font-size: 0.78rem; color: #9a7414; margin-bottom: 0.2rem;">
@@ -46,8 +46,8 @@ I work on large-scale data analysis and instrumentation development in high-ener
         </span><br>
         Building on the Nobel-recognized discovery of high-energy astrophysical neutrinos, led by IceCube Principal Investigator Francis Halzen, my work maps the fine spectral structure of this cosmic flux to uncover its hidden engines. For more information, read the Nobel Committee's <a href="https://www.nobelprize.org/uploads/2026/10/advanced-physicsprize2026.pdf" target="_blank" rel="noopener" class="research-pill" style="padding: 0.2rem 0.65rem; font-size: 0.8rem;"><i class="fas fa-newspaper"></i> Scientific Background</a> to the 2026 Nobel Prize in Physics.
       </div>
-    </div> -->
-    <p style="margin-top: 0;">
+    </div>
+ -->    <p style="margin-top: 0;">
       Neutrinos are almost massless neutral particles that interact only weakly with matter, traveling through the Universe unimpeded by dust and undeflected by magnetic fields to point directly back to extreme cosmic-ray accelerators. The IceCube Neutrino Observatory instruments a cubic kilometer of deep glacial ice at the South Pole to detect the Cherenkov radiation produced by these rare interactions.
     </p>
     <p>
