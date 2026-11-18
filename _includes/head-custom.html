@@ -45,4 +45,50 @@
   .spectrum-zoom:hover {
     transform: scale(1.025);
   }
+  .figure-container {
+    position: relative;
+    overflow: hidden;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  }
+  .figure-container img {
+    display: block;
+    width: 100%;
+    transition: transform 0.35s ease;
+  }
+  .figure-container:hover img {
+    transform: scale(1.03);
+  }
+  .figure-caption {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: linear-gradient(to top, rgba(15, 23, 42, 0.92) 0%, rgba(15, 23, 42, 0.72) 75%, transparent 100%);
+    color: #ffffff;
+    padding: 1.5rem 1rem 0.85rem;
+    font-size: 0.82rem;
+    line-height: 1.4;
+    opacity: 0;
+    transform: translateY(6px);
+    transition: opacity 0.28s ease, transform 0.28s ease;
+    pointer-events: none;
+  }
+  .figure-container:hover .figure-caption {
+    opacity: 1;
+    transform: translateY(0);
+  }
+  .card-media {
+    flex: 1 1 280px;
+    min-width: 240px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .card-media img {
+    display: block;
+    margin: 0 auto;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  }
 </style>

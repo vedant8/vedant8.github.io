@@ -17,8 +17,13 @@ I work on large-scale data analysis and instrumentation development in high-ener
 ## Astroparticle Physics with Cosmic Neutrinos
 
 <div id="astroparticle" class="research-card" data-aos="fade-up">
-  <div style="flex: 1 1 280px; min-width: 240px;">
-    <img class="spectrum-zoom" src="{{ '/assets/images/EnergySpectrum.png' | relative_url }}" alt="Cosmic Neutrino Energy Spectrum" style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
+  <div class="card-media">
+    <div class="figure-container">
+      <img src="{{ '/assets/images/EnergySpectrum.png' | relative_url }}" alt="Cosmic Neutrino Energy Spectrum">
+      <div class="figure-caption">
+        <strong>Spectral Curvature:</strong> Joint likelihood fit of IceCube data revealing deviations from a single unbroken power law.
+      </div>
+    </div>
   </div>
   <div style="flex: 2 1 380px;">
     <div style="display: flex; align-items: flex-start; gap: 0.85rem; border-left: 4px solid #c59b27; background: #fbfaf5; border-top: 1px solid #efe9d5; border-right: 1px solid #efe9d5; border-bottom: 1px solid #efe9d5; padding: 0.85rem 1.1rem; border-radius: 0 8px 8px 0; margin-bottom: 1.25rem; font-size: 0.95rem; line-height: 1.55;">
@@ -27,7 +32,7 @@ I work on large-scale data analysis and instrumentation development in high-ener
         <span style="display: inline-block; font-weight: 700; letter-spacing: 0.04em; text-transform: uppercase; font-size: 0.78rem; color: #9a7414; margin-bottom: 0.2rem;">
           2026 Nobel Prize in Physics &bull; IceCube Collaboration
         </span><br>
-        Building on the Nobel-recognized discovery of high-energy astrophysical neutrinos, led by IceCube Principal Investigator Francis Halzen, my work maps the fine spectral structure of this cosmic flux to uncover its hidden engines. For more information, why not read what the Nobel Committee had to say in the <a href="https://www.nobelprize.org/uploads/2026/10/advanced-physicsprize2026.pdf" target="_blank" rel="noopener" class="research-pill"><i class="fas fa-newspaper"></i> Scientific Background to the Nobel Prize in Physics (Oct 2026)</a>
+        Building on the Nobel-recognized discovery of high-energy astrophysical neutrinos, led by IceCube Principal Investigator Francis Halzen, my work maps the fine spectral structure of this cosmic flux to uncover its hidden engines. For more information, read the Nobel Committee's <a href="https://www.nobelprize.org/uploads/2026/10/advanced-physicsprize2026.pdf" target="_blank" rel="noopener" class="research-pill" style="padding: 0.2rem 0.65rem; font-size: 0.8rem;"><i class="fas fa-newspaper"></i> Scientific Background</a> to the 2026 Nobel Prize in Physics.
       </div>
     </div>
     <p style="margin-top: 0;">
@@ -47,8 +52,13 @@ I work on large-scale data analysis and instrumentation development in high-ener
 ## Instrumentation Development
 
 <div id="instrumentation" class="research-card reverse" data-aos="fade-up">
-  <div style="flex: 1 1 280px; min-width: 240px;">
-    <img class="spectrum-zoom" src="{{ '/assets/images/LOM_deployment.jpg' | relative_url }}" alt="LOM Deployment in Antarctica" style="max-width: 100%; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
+  <div class="card-media">
+    <div class="figure-container">
+      <img src="{{ '/assets/images/LOM_deployment.JPG' | relative_url }}" alt="LOM Deployment in Antarctica">
+      <div class="figure-caption">
+        <strong>Long Optical Module (LOM):</strong> Candidate IceCube-Gen2 optical sensor validated during the 2025–26 Antarctic field season.
+      </div>
+    </div>
   </div>
   <div style="flex: 2 1 380px;">
     <p style="margin-top: 0;">
@@ -65,8 +75,13 @@ I work on large-scale data analysis and instrumentation development in high-ener
 ## South Pole Ice Imaging and Calibration
 
 <div id="ice-calibration" class="research-card" data-aos="fade-up">
-  <div style="flex: 1 1 280px; min-width: 240px;">
-    <img class="spectrum-zoom" src="{{ '/assets/images/mDOM_descent.jpeg' | relative_url }}" alt="Module Deployment in Antarctica" style="max-width: 60%; border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.08);">
+  <div class="card-media">
+    <div class="figure-container" style="max-width: 72%;">
+      <img src="{{ '/assets/images/mDOM_descent.jpeg' | relative_url }}" alt="Module Deployment in Antarctica">
+      <div class="figure-caption">
+        <strong>In-Ice Camera Calibration:</strong> Multi-sensor module descending into a South Pole borehole to map refreeze geometry.
+      </div>
+    </div>
   </div>
   <div style="flex: 2 1 380px;">
     <p style="margin-top: 0;">
@@ -76,11 +91,4 @@ I work on large-scale data analysis and instrumentation development in high-ener
       <a href="https://icecube.wisc.edu/news/press-releases/2026/02/the-icecube-neutrino-observatory-gets-a-major-upgrade-beneath-the-ice/" target="_blank" rel="noopener" class="research-pill"><i class="fas fa-newspaper"></i> IceCube Upgrade Press Release (Feb 2026)</a>
     </div>
   </div>
-</div>
-
----
-
-<div data-aos="zoom-in" style="background-color: #f5f5f5; padding: 1.5rem; border-radius: 10px; border: 1px solid #e5e7eb;">
-  <h3 style="margin-top: 0;">AOS Scroll Animation Test</h3>
-  <p style="margin-bottom: 0;">Once your page rebuilds with the YAML block fixed above, this box will zoom in smoothly as you scroll down.</p>
 </div>
