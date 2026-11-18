@@ -91,13 +91,14 @@ I work on large-scale data analysis and instrumentation development in high-ener
     <div class="figure-container" style="max-width: 100%;">
       <img src="{{ '/assets/images/mDOM_descent.jpeg' | relative_url }}" alt="Module Deployment in Antarctica">
       <div class="figure-caption">
-        <strong>In-Ice Camera Calibration:</strong> Multi-sensor module descending into a South Pole borehole to map refreeze geometry.
+        <strong>In-Ice Camera Calibration:</strong> The multi-PMT mDOM descending into a South Pole borehole to map refreeze geometry. The disco-ball appearance of an mDOM is to the 24 photomultiplier tubes (PMTs) arrayed around its surface.
       </div>
     </div>
   </div>
   <div style="flex: 2 1 380px;">
     <p style="margin-top: 0;">
-      Precision neutrino oscillation and low-energy reconstruction in the <a href="https://icecube.wisc.edu/news/press-releases/2026/02/the-icecube-neutrino-observatory-gets-a-major-upgrade-beneath-the-ice/" target="_blank" rel="noopener">IceCube Upgrade</a> require exact knowledge of sensor positions, orientations, and local optical properties in the refrozen drill columns. Alongside firmware development and optical bench testing (including commissioning a 3D laser scanning system) for next-generation modules, I lead the image-based geometry and optical calibration of South Pole ice using cameras integrated directly into the deployed modules.
+      Precision neutrino oscillation and low-energy reconstruction in the <a href="https://icecube.wisc.edu/news/press-releases/2026/02/the-icecube-neutrino-observatory-gets-a-major-upgrade-beneath-the-ice/" target="_blank" rel="noopener">IceCube Upgrade</a> require exact knowledge of sensor positions, orientations, and local optical properties in the refrozen ice. 
+      I lead the image-based geometry and optical calibration of South Pole ice using cameras integrated directly into the deployed modules.
     </p>
     <div style="display: flex; flex-wrap: wrap; gap: 0.5rem; margin-top: 1rem;">
       <a href="https://icecube.wisc.edu/news/press-releases/2026/02/the-icecube-neutrino-observatory-gets-a-major-upgrade-beneath-the-ice/" target="_blank" rel="noopener" class="research-pill"><i class="fas fa-newspaper"></i> IceCube Upgrade Press Release (Feb 2026)</a>
