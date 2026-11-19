@@ -26,7 +26,6 @@ author_profile: true
     <p style="margin-bottom: 1.25rem;">
       Beyond detector instrumentation, my field deployments to Antarctica sparked an active research interest in designing robust, renewable and alternative energy systems built to survive extreme polar and remote environments.
     </p>
-
     <div style="display: flex; flex-wrap: wrap; gap: 0.6rem;">
       <a href="{{ '/docs/research/' | relative_url }}" class="research-pill"><i class="fas fa-atom"></i> Explore My Research</a>
       <a href="{{ '/docs/outreach/' | relative_url }}" class="research-pill"><i class="fas fa-chalkboard-teacher"></i> Outreach &amp; Talks</a>
