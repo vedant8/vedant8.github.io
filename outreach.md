@@ -30,7 +30,7 @@ author_profile: true
 <div class="research-card" data-aos="fade-up">
   <div class="card-media">
     <div class="figure-container">
-      <img src="{{ '/assets/images/icecube_detector_pdf.pdf' | relative_url }}" alt="The IceCube Neutrino Observatory. Credits: The IceCube Collaboration">
+      <img src="{{ '/assets/images/icecube_detector.jpg' | relative_url }}" alt="The IceCube Neutrino Observatory. Credits: The IceCube Collaboration">
       <div class="figure-caption">
         <strong>Show and Tell with Sensors:</strong> Letting students inspect optical modules, circuit boards, and Antarctic deployment gear up close.
       </div>
@@ -39,10 +39,10 @@ author_profile: true
   <div style="flex: 2 1 380px;">
     <h3 style="margin-top: 0; color: #157878;"><i class="fas fa-tools" style="margin-right: 0.4rem;"></i> Hands-On Hardware &amp; Lab Tours</h3>
     <p style="margin-top: 0;">
-      Nothing sparks curiosity faster than putting real detector hardware in someone’s hands. During lab tours, science festivals, and student workshops, I bring out optical sensors, circuit boards, and 3D-printed prototypes so visitors can see how a physics idea becomes an instrument.
+      The IceCube Neutrino Observatory is a tour de force of big science in extreme environments. Built over 7 seasons of construction, IceCube consists of over 5000 optical sensors buried in a gigaton of glacial ice.
     </p>
     <p style="margin-bottom: 0;">
-      We talk through the messy, creative side of experimental engineering: how you test sensitive electronics on a lab bench, troubleshoot weird signals, and build equipment tough enough to survive extreme cold.
+     Finding neutrinos is like hunting for a needle in a stack of needles, with IceCube detecting thousands of particles every second created in charged particle collisions in the atmosphere, known as cosmic ray air showers. The cosmic neutrinos we are most interested in, however, are far more rare, with about ten detected every month.
     </p>
   </div>
 </div>
