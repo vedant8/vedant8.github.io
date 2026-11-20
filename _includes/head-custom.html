@@ -27,7 +27,7 @@
   /* Responsive Media Column Alongside Text */
   .card-media {
     flex: 0 0 42%;
-    max-width: 420px;
+    max-width: 520px;
     min-width: 240px;
     display: flex;
     justify-content: center;
@@ -45,9 +45,13 @@
   .figure-container img {
     display: block;
     width: 100%;
-    max-height: 360px;
+    max-height: 440px;
     object-fit: contain;
     transition: transform 0.35s ease;
+  }
+  .research-card > div:not(.card-media) {
+    flex: 1 1 280px;
+    min-width: 0;
   }
   .figure-container:hover img {
     transform: scale(1.03);

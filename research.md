@@ -80,7 +80,7 @@ I work on large-scale data analysis and instrumentation development in high-ener
       I have been a lead member of a team developing new optical detector prototypes for IceCube-Gen2, a high-energy expansion to the current IceCube detector aiming to boost sensitivity to PeV-scale neutrinos and dramatically enhance neutrino source detection capabilities.
     </p>
     <p style="margin-bottom: 0;">
-      I have contributed to modeling, design, testing, and firmware development for the Long Optical Module (LOM), a candidate sensor for IceCube-Gen2. Twelve prototypes were successfully deployed during the 2025–26 IceCube Upgrade field season, providing critical in-ice validation toward full-scale Gen2 production.
+      I have contributed to modeling, design, testing, and firmware development for the Long Optical Module (LOM), a candidate sensor for IceCube-Gen2. These prototypes were successfully deployed during the 2025–26 IceCube Upgrade field season, providing critical in-ice validation toward full-scale Gen2 production.
     </p>
   </div>
 </div>
