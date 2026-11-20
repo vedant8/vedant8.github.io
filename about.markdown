@@ -6,73 +6,44 @@ author_profile: true
 ---
 
 <!-- Banner image (not cropped) -->
-<div class="figure-container" style="margin-bottom: 2rem;" data-aos="fade-in">
+<div class="figure-container" style="margin-bottom: 2.25rem;" data-aos="fade-in">
   <img src="{{ '/assets/images/banner_pole.JPG' | relative_url }}" alt="South Pole Station Banner" style="max-height: none;">
   <div class="figure-caption">
     <strong>Amundsen–Scott South Pole Station:</strong> On-ice deployment and calibration work with the IceCube Neutrino Observatory in Antarctica.
   </div>
 </div>
 
-## Hey there, I'm Vedant
-
-<div class="research-card" data-aos="fade-up">
-  <div style="flex: 1 1 100%;">
-    <p style="margin-top: 0;">
-      I'm an astrophysicist, instrumentation engineer, and science communicator! I currently work as a Postdoctoral Researcher in the Department of Physics and Astronomy at the <strong>University of Utah</strong> in Salt Lake City.
+<div class="about-layout">
+  <!-- Sticky Left Rail: Headshot + Compact Tags -->
+  <aside class="about-sidebar" data-aos="fade-up">
+    <img class="about-headshot" src="{{ '/assets/images/Pole_Headshot.jpg' | relative_url }}" alt="Vedant Basu">
+    <div style="font-weight: 700; font-size: 1.05rem; color: #1e293b;">Vedant Basu</div>
+    <div style="font-size: 0.85rem; color: #64748b; margin-top: 0.15rem;">Salt Lake City, UT</div>
+    <div class="about-tag-list">
+      <a href="mailto:vbasu@icecube.wisc.edu" class="research-pill" style="padding: 0.3rem 0.7rem; font-size: 0.8rem;"><i class="fas fa-envelope"></i> Email</a>
+      <a href="https://github.com/vedant8" target="_blank" rel="noopener" class="research-pill" style="padding: 0.3rem 0.7rem; font-size: 0.8rem;"><i class="fab fa-github"></i> GitHub</a>
+      <a href="https://www.linkedin.com/in/vedant-basu-12b87611a/" target="_blank" rel="noopener" class="research-pill" style="padding: 0.3rem 0.7rem; font-size: 0.8rem;"><i class="fab fa-linkedin"></i> LinkedIn</a>
+      <a href="{{ '/docs/cv/' | relative_url }}" class="research-pill" style="padding: 0.3rem 0.7rem; font-size: 0.8rem;"><i class="fas fa-file-alt"></i> CV</a>
+    </div>
+  </aside>
+<!-- Right Column: Actual Story -->
+  <div class="about-story" data-aos="fade-up">
+    <h2 style="margin-top: 0;">Hi, I'm Vedant</h2>
+    <p>
+      I’m an experimental astrophysicist and hardware tinkerer currently working as a postdoctoral researcher at the University of Utah, Salt Lake City. Most days, I spend my time studying the cosmos, usually by designing equipment meant to survive places where nothing should, like a mile and a half beneath the South Pole.
     </p>
     <p>
-      As a member of the <a href="https://icecube.wisc.edu/" target="_blank" rel="noopener">IceCube Collaboration</a>, I study ghost-like particles from deep space called neutrinos! Every second, trillions of these travel through our body, rarely interacting with anything in their path. I'm particularly interested in cosmic neutrinos arriving from the most extreme environments in the Universe, such as supermassive black holes, neutron star mergers, or gamma ray bursts. 
+      As a member of the <a href="https://icecube.wisc.edu/" target="_blank" rel="noopener">IceCube Collaboration</a>, I study ghostly particles from deep space called neutrinos! Every second, trillions of these travel through our body, rarely interacting with anything in their path. I'm particularly interested in cosmic neutrinos arriving from the most extreme environments in the Universe, such as supermassive black holes, neutron star mergers, or gamma ray bursts. 
     </p>
-    <p style="margin-bottom: 1.25rem;">
-      Beyond detector instrumentation, my field deployments to Antarctica sparked an active research interest in designing robust, renewable and alternative energy systems built to survive extreme polar and remote environments.
+    <p>
+      I’ve always been drawn to the practical side of science, taking ideas from a rough sketch to functional prototypes. A couple of field deployments to Antarctica has also sparked an active research interest in designing robust alternative energy systems built to survive off-grid remote polar environments.
     </p>
-    <div style="display: flex; flex-wrap: wrap; gap: 0.6rem;">
-      <a href="{{ '/docs/research/' | relative_url }}" class="research-pill"><i class="fas fa-atom"></i> Explore My Research</a>
-      <a href="{{ '/docs/outreach/' | relative_url }}" class="research-pill"><i class="fas fa-chalkboard-teacher"></i> Outreach &amp; Talks</a>
-      <a href="mailto:vbasu@icecube.wisc.edu" class="research-pill"><i class="fas fa-envelope"></i> vbasu@icecube.wisc.edu</a>
-      <a href="https://github.com/vedant8" target="_blank" rel="noopener" class="research-pill"><i class="fab fa-github"></i> GitHub</a>
-      <a href="https://www.linkedin.com/in/vedant-basu-12b87611a/" target="_blank" rel="noopener" class="research-pill"><i class="fab fa-linkedin"></i> LinkedIn</a>
-    </div>
-  </div>
-</div>
-
----
-
-## Core Focus Areas
-
-<div style="display: flex; flex-wrap: wrap; gap: 1.5rem; margin-bottom: 2.25rem;" data-aos="fade-up">
-  <div class="research-card" style="flex: 1 1 300px; margin-bottom: 0; align-items: flex-start;">
-    <div>
-      <h3 style="margin-top: 0; color: #157878;"><i class="fas fa-chart-area" style="margin-right: 0.4rem;"></i> Astroparticle Physics &amp; Data</h3>
-      <p style="margin-bottom: 0; font-size: 0.95rem;">
-        Precision spectral measurements of high-energy astrophysical neutrinos, multimessenger source constraints, rare-event machine learning classification, and multidimensional likelihood estimation—building on earlier particle physics experience with the CMS experiment at CERN.
-      </p>
-    </div>
-  </div>
-
-  <div class="research-card" style="flex: 1 1 300px; margin-bottom: 0; align-items: flex-start;">
-    <div>
-      <h3 style="margin-top: 0; color: #157878;"><i class="fas fa-microchip" style="margin-right: 0.4rem;"></i> Instrumentation &amp; Polar Power</h3>
-      <p style="margin-bottom: 0; font-size: 0.95rem;">
-        End-to-end hardware prototyping, embedded C/C++ and FPGA firmware, optical bench and 3D laser calibration for IceCube-Gen2 optical modules, and resilient off-grid energy architectures for remote Antarctic operations.
-      </p>
-    </div>
-  </div>
-</div>
-
----
-
-## Beyond the Lab
-
-<div class="research-card" data-aos="fade-up">
-  <div style="flex: 1 1 100%;">
-    <p style="margin-top: 0;">
-      When I'm not debugging firmware, running likelihood scans, or preparing gear for polar deployments, you can usually find me:
+    <h3>Outside the Lab</h3>
+    <p>
+      Away from my workbench, I like to stay in motion, whether that’s falling off climbing walls, camping in the canyons, carving down ski slopes, or catching sunset sails across the Great Lakes. I’m also an active dancer and a fixture at local indie bookstores (tell me about your latest read!).
     </p>
-    <ul style="margin-bottom: 0; line-height: 1.75;">
-      <li><strong>Exploring the Wasatch Mountains:</strong> Taking advantage of Salt Lake City's trails and peaks for hiking, photography, and getting outdoors year-round.</li>
-      <li><strong>Tinkering with Electronics &amp; CAD:</strong> Building custom microcontroller gadgets, designing PCBs, and 3D-printing enclosures just for the fun of making things work.</li>
-      <li><strong>Science Storytelling:</strong> Sharing what life and engineering at the South Pole actually look like with students, local astronomy groups, and curious minds everywhere.</li>
-    </ul>
+    <p>
+      Get me talking, which won't be hard, and I won’t shut up about motorcycles, meteor showers, or my favorite Taylor Swift lyrics. I bring that same experimental streak into the kitchen, backed by a tiramisu recipe to die for. If you want the technical side of what I build and analyze, head over to my <a href="{{ '/docs/research/' | relative_url }}">Research</a> page, or check out <a href="{{ '/docs/outreach/' | relative_url }}">Outreach</a> for public talks and Polar stories.
+    </p>
   </div>
 </div>
