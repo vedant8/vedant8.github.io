@@ -26,6 +26,9 @@ I work on large-scale data analysis and instrumentation development in high-ener
     </div>
   </div>
 </div>
+
+---
+
 ## Astroparticle Physics with Cosmic Neutrinos
 
 <div id="astroparticle" class="research-card" data-aos="fade-up">

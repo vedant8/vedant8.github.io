@@ -28,12 +28,12 @@ author_profile: true
   </aside>
 <!-- Right Column: Actual Story -->
   <div class="about-story" data-aos="fade-up">
-    <h2 style="margin-top: 0;">Hi, I'm Vedant</h2>
+    <h2 style="margin-top: 0;">Hey there, I'm Vedant</h2>
     <p>
-      I’m an experimental astrophysicist and hardware tinkerer currently working as a postdoctoral researcher at the University of Utah, Salt Lake City. Most days, I spend my time studying the cosmos, usually by designing equipment meant to survive places where nothing should, like a mile and a half beneath the South Pole.
+      I’m an experimental astrophysicist and hardware tinkerer, currently working as a postdoctoral researcher at the University of Utah, Salt Lake City. Most days, I spend my time studying the cosmos, usually by designing equipment meant to survive places where nothing should, like a mile and a half beneath the South Pole.
     </p>
     <p>
-      As a member of the <a href="https://icecube.wisc.edu/" target="_blank" rel="noopener">IceCube Collaboration</a>, I study ghostly particles from deep space called neutrinos! Every second, trillions of these travel through our body, rarely interacting with anything in their path. I'm particularly interested in cosmic neutrinos arriving from the most extreme environments in the Universe, such as supermassive black holes, neutron star mergers, or gamma ray bursts. 
+      As a member of the <a href="https://icecube.wisc.edu/" target="_blank" rel="noopener">IceCube Collaboration</a>, I study ghostly particles from deep space, called neutrinos! Every second, trillions of these travel through our body, rarely interacting with anything in their path. I'm particularly interested in cosmic neutrinos arriving from the most extreme environments in the Universe, such as supermassive black holes, neutron star mergers, or gamma ray bursts. 
     </p>
     <p>
       I’ve always been drawn to the practical side of science, taking ideas from a rough sketch to functional prototypes. A couple of field deployments to Antarctica has also sparked an active research interest in designing robust alternative energy systems built to survive off-grid remote polar environments.
