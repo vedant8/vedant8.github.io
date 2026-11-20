@@ -9,7 +9,7 @@ author_profile: true
 <div class="figure-container" style="margin-bottom: 2.25rem;" data-aos="fade-in">
   <img src="{{ '/assets/images/banner_pole.JPG' | relative_url }}" alt="South Pole Station Banner" style="max-height: none;">
   <div class="figure-caption">
-    <strong>Amundsen–Scott South Pole Station:</strong> On-ice deployment and calibration work with the IceCube Neutrino Observatory in Antarctica.
+    <strong>Amundsen–Scott South Pole Station:</strong> On-ice deployment and calibration work with the IceCube Neutrino Observatory in Antarctica. Credits: Ilya Bodo, IceCube/NSF
   </div>
 </div>
 

@@ -1,27 +1,53 @@
 title: Dr. Vedant Basu
 email: vbasu@icecube.wisc.edu
 description: "Professional website of Dr. Vedant Basu, neutrino astrophysicist."
-baseurl: ""
+baseurl: "" 
 url: "https://vedant8.github.io"
 github_username: vedant8
+
+# Theme Settings
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "dark" # Try "air" or "contrast" for a different look
 locale: "en-US"
 
-# Theme & Build Settings
-theme: jekyll-theme-cayman
-markdown: GFM
+# Author Sidebar Settings
+author:
+  name   : "Vedant Basu"
+  avatar : "/assets/images/Pole_Headshot.jpg" 
+  bio    : "Astrophysicist"
+  location: "Salt Lake City, UT"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/vedant8"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/vedant-basu-12b87611a/"
 
+# Build settings
+markdown: GFM
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-remote-theme
+  - jekyll-include-cache # Recommended for Minimal Mistakes
 
-# Default Layout for All Pages
+# Remove the old 'nav:' block entirely. 
+# We are using _data/navigation.yml now, so Jekyll doesn't need this here.
+
+sass:
+  style: compressed
+
+# Defaults - IMPORTANT: Removed the /docs/ prefix here
 defaults:
   - scope:
       path: ""
     values:
-      layout: "custom-default"
+      layout: "single" # Sets a default layout so you don't have to type it every time
+      author_profile: true
+      css: "/assets/css/custom.css" 
 
-# Exclude build/dev artifacts
+# Exclude these from the build
 exclude:
   - .sass-cache/
   - .jekyll-cache/

@@ -30,9 +30,9 @@ author_profile: true
 <div class="research-card" data-aos="fade-up">
   <div class="card-media">
     <div class="figure-container">
-      <img src="{{ '/assets/images/icecube_detector.jpg' | relative_url }}" alt="The IceCube Neutrino Observatory. Credits: The IceCube Collaboration">
+      <img src="{{ '/assets/images/icecube_detector.jpg' | relative_url }}" alt="The IceCube Neutrino Observatory.">
       <div class="figure-caption">
-        <strong>Show and Tell with Sensors:</strong> Letting students inspect optical modules, circuit boards, and Antarctic deployment gear up close.
+        <strong>The IceCube Neutrino Observatory</strong>  Credits: The IceCube Collaboration
       </div>
     </div>
   </div>
