@@ -30,7 +30,7 @@ author_profile: true
 <div class="research-card" data-aos="fade-up">
   <div class="card-media">
     <div class="figure-container">
-      <img src="{{ '/assets/images/icecube_detector_pdf' | relative_url }}" alt="The IceCube Neutrino Observatory. Credits: The IceCube Collaboration">
+      <img src="{{ '/assets/images/icecube_detector_pdf.pdf' | relative_url }}" alt="The IceCube Neutrino Observatory. Credits: The IceCube Collaboration">
       <div class="figure-caption">
         <strong>Show and Tell with Sensors:</strong> Letting students inspect optical modules, circuit boards, and Antarctic deployment gear up close.
       </div>
@@ -51,9 +51,9 @@ author_profile: true
 <div class="research-card reverse" data-aos="fade-up">
   <div class="card-media">
     <div class="figure-container">
-      <img src="{{ '/assets/images/Outreach_1.JPG' | relative_url }}" alt="Presenting IceCube for WI State Rep. Francesca Hong. Credits:Dr. A. King-Klemperer">
+      <img src="{{ '/assets/images/Outreach_1.JPG' | relative_url }}" alt="">
       <div class="figure-caption">
-        <strong>Public Talks:</strong> Sharing neutrino magic with students and local science enthusiasts.
+        <strong>Public Talks:</strong> Presenting IceCube to WI State Rep. Francesca Hong. Credits:Dr. A. King-Klemperer.
       </div>
     </div>
   </div>
@@ -70,9 +70,9 @@ author_profile: true
 <div class="research-card" data-aos="fade-up">
   <div class="card-media">
     <div class="figure-container">
-      <img src="{{ '/assets/images/LC130.JPG' | relative_url }}" alt="Life and science at the South Pole">
+      <img src="{{ '/assets/images/LC130.JPG' | relative_url }}" alt="">
       <div class="figure-caption">
-        <strong>Life at 90° South:</strong> Answering questions about polar logistics, extreme-cold gear, and working at Amundsen-Scott Station.
+        <strong>Life at 90° South:</strong> Life and science at the South Pole. Credits: Michael Rayne, IceCube/NSF.
       </div>
     </div>
   </div>
