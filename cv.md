@@ -1,6 +1,6 @@
 ---
 title: "Curriculum Vitae"
-permalink: /docs/cv/
+permalink: /cv/
 layout: custom-default
 author_profile: true
 ---
