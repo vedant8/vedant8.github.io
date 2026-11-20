@@ -51,7 +51,7 @@ author_profile: true
 <div class="research-card reverse" data-aos="fade-up">
   <div class="card-media">
     <div class="figure-container">
-      <img src="{{ '/assets/images/Outreach_1.JPG' | relative_url }}" alt="">
+      <img src="{{ '/assets/images/Outreach_1.jpg' | relative_url }}" alt="">
       <div class="figure-caption">
         <strong>Public Talks:</strong> Presenting IceCube to WI State Rep. Francesca Hong. Credits:Dr. A. King-Klemperer.
       </div>
@@ -70,7 +70,7 @@ author_profile: true
 <div class="research-card" data-aos="fade-up">
   <div class="card-media">
     <div class="figure-container">
-      <img src="{{ '/assets/images/LC130.JPG' | relative_url }}" alt="">
+      <img src="{{ '/assets/images/LC130.jpg' | relative_url }}" alt="">
       <div class="figure-caption">
         <strong>Life at 90° South:</strong> Life and science at the South Pole. Credits: Michael Rayne, IceCube/NSF.
       </div>
