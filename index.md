@@ -4,12 +4,6 @@ permalink: /
 layout: custom-default
 author_profile: true
 ---
----
-title: "About Me"
-permalink: /about/
-layout: custom-default
-author_profile: true
----
 
 <!-- Banner image (not cropped) -->
 <div class="figure-container" style="margin-bottom: 2.25rem;" data-aos="fade-in">
