@@ -36,7 +36,7 @@ I work on large-scale data analysis and instrumentation development in high-ener
     <div class="figure-container">
       <img src="{{ '/assets/images/EnergySpectrum.png' | relative_url }}" alt="Cosmic Neutrino Energy Spectrum">
       <div class="figure-caption">
-        <strong>Spectral Curvature:</strong> IceCube's fit to neutrino spectral data, revealing deviations from a single unbroken power law. We observe that the flux is much higher than the most luminous resolved sources, implyng that the bulk of neutrino sources are still unresolved.
+        <strong>Spectral Curvature:</strong> IceCube's fit to neutrino spectral data, revealing deviations from a single unbroken power law. We observe that the flux is much higher than the most luminous resolved sources, implying that the bulk of neutrino sources are still unresolved. [DOI](https://doi.org/10.1103/2gh9-d4q7)
       </div>
     </div>
   </div>
@@ -71,7 +71,7 @@ I work on large-scale data analysis and instrumentation development in high-ener
     <div class="figure-container">
       <img src="{{ '/assets/images/LOM_deployment.JPG' | relative_url }}" alt="LOM Deployment in Antarctica">
       <div class="figure-caption">
-        <strong>Long Optical Module (LOM):</strong> Candidate IceCube-Gen2 optical sensor deployed during the 2025–26 Antarctic field season.
+        <strong>Long Optical Module (LOM):</strong> Candidate IceCube-Gen2 optical sensor deployed during the 2025–26 Antarctic field season. Credits: Yuya Makino, IceCube/NSF.
       </div>
     </div>
   </div>
@@ -94,7 +94,7 @@ I work on large-scale data analysis and instrumentation development in high-ener
     <div class="figure-container" style="max-width: 100%;">
       <img src="{{ '/assets/images/mDOM_descent.jpeg' | relative_url }}" alt="Module Deployment in Antarctica">
       <div class="figure-caption">
-        <strong>In-Ice Camera Calibration:</strong> The multi-PMT mDOM descending into a South Pole borehole to map refreeze geometry. The disco-ball appearance of an mDOM is due to the 24 photomultiplier tubes (PMTs) arrayed around its surface.
+        <strong>In-Ice Camera Calibration:</strong> The multi-PMT mDOM descending into a South Pole borehole to map refreeze geometry. The disco-ball appearance of an mDOM is due to the 24 photomultiplier tubes (PMTs) arrayed around its surface. Credits: Yuya Makino, IceCube/NSF.
       </div>
     </div>
   </div>
