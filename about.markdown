@@ -13,15 +13,15 @@ author_profile: true
   </div>
 </div>
 
-## Hello, I'm Vedant
+## Hey there, I'm Vedant
 
 <div class="research-card" data-aos="fade-up">
   <div style="flex: 1 1 100%;">
     <p style="margin-top: 0;">
-      I'm an astrophysicist, hardware engineer, and science communicator working as a Postdoctoral Research Associate in the Department of Physics and Astronomy at the <strong>University of Utah</strong> in Salt Lake City. My work sits at the intersection of experimental particle astrophysics, instrumentation engineering, and large-scale statistical data analysis.
+      I'm an astrophysicist, instrumentation engineer, and science communicator! I currently work as a Postdoctoral Researcher in the Department of Physics and Astronomy at the <strong>University of Utah</strong> in Salt Lake City.
     </p>
     <p>
-      As a member of the <a href="https://icecube.wisc.edu/" target="_blank" rel="noopener">IceCube Collaboration</a>, I investigate high-energy astrophysical neutrinos arriving from the most extreme cosmic-ray accelerators in the Universe—combining machine learning and multidimensional likelihood modeling to map the fine spectral structure of the cosmic neutrino flux—while developing next-generation optical sensors, embedded firmware, and in-ice camera calibration systems for <strong>IceCube-Gen2</strong>.
+      As a member of the <a href="https://icecube.wisc.edu/" target="_blank" rel="noopener">IceCube Collaboration</a>, I study ghost-like particles from deep space called neutrinos! Every second, trillions of these travel through our body, rarely interacting with anything in their path. I'm particularly interested in cosmic neutrinos arriving from the most extreme environments in the Universe, such as supermassive black holes, neutron star mergers, or gamma ray bursts. 
     </p>
     <p style="margin-bottom: 1.25rem;">
       Beyond detector instrumentation, my field deployments to Antarctica sparked an active research interest in designing robust, renewable and alternative energy systems built to survive extreme polar and remote environments.

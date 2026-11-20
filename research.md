@@ -21,7 +21,7 @@ I work on large-scale data analysis and instrumentation development in high-ener
         <span style="display: inline-block; font-weight: 700; letter-spacing: 0.04em; text-transform: uppercase; font-size: 0.78rem; color: #9a7414; margin-bottom: 0.2rem;">
           2026 Nobel Prize in Physics &bull; IceCube Collaboration
         </span><br>
-        Building on the Nobel-recognized discovery of high-energy astrophysical neutrinos, led by IceCube Principal Investigator Francis Halzen, my work maps the fine spectral structure of this cosmic flux to uncover its hidden engines. For more information, read the Nobel Committee's <a href="https://www.nobelprize.org/uploads/2026/10/advanced-physicsprize2026.pdf" target="_blank" rel="noopener" class="research-pill" style="padding: 0.2rem 0.65rem; font-size: 0.8rem;"><i class="fas fa-newspaper"></i> Scientific Background</a> to the 2026 Nobel Prize in Physics.
+        Building on the Nobel-recognized discovery of high-energy astrophysical neutrinos, led by IceCube Principal Investigator Francis Halzen, my work maps the fine spectral structure of this cosmic flux to uncover its hidden engines. For more information, read the Nobel Committee's [Scientific Background](https://www.nobelprize.org/uploads/2026/10/advanced-physicsprize2026.pdf) to the 2026 Nobel Prize in Physics.
       </div>
     </div>
   </div>
