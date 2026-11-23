@@ -37,7 +37,7 @@ author_profile: true
     </div>
   </div>
   <div style="flex: 2 1 380px;">
-    <h3 style="margin-top: 0; color: #157878;"><i class="fas fa-tools" style="margin-right: 0.4rem;"></i> Hands-On Hardware &amp; Lab Tours</h3>
+    <h3 style="margin-top: 0; color: #157878;"><i class="fas fa-tools" style="margin-right: 0.4rem;"></i> Chasing Ghosts at the South Pole</h3>
     <p style="margin-top: 0;">
       The IceCube Neutrino Observatory is a tour de force of big science in extreme environments. Built over 7 seasons of construction, IceCube consists of over 5000 optical sensors buried in a gigaton of glacial ice.
     </p>

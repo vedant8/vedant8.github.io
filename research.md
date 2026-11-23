@@ -7,9 +7,9 @@ author_profile: true
 I work on large-scale data analysis and instrumentation development in high-energy astrophysics, with a focus on particle detection and signal processing. My recent collaborations include work on the [IceCube](https://icecube.wisc.edu/) Neutrino Observatory at the South Pole. I am particularly interested in measurements of the astrophysical neutrino spectrum and what this tells us about cosmic ray accelerators from a multimessenger perspective.
 
 <div style="display: flex; flex-wrap: wrap; gap: 0.6rem; margin-bottom: 2rem;">
-  <a href="#astroparticle" class="research-pill"><i class="fas fa-atom"></i> Cosmic Neutrino Spectrum</a>
-  <a href="#instrumentation" class="research-pill"><i class="fas fa-microchip"></i> Gen2 Instrumentation</a>
-  <a href="#ice-calibration" class="research-pill"><i class="fas fa-camera"></i> South Pole Ice Calibration</a>
+  <a href="#astroparticle" class="research-pill"><i class="fas fa-atom"></i> Astroparticle Physics with Cosmic Neutrinos</a>
+  <a href="#instrumentation" class="research-pill"><i class="fas fa-microchip"></i> Instrumentation Development for IceCube-Gen2</a>
+  <a href="#ice-calibration" class="research-pill"><i class="fas fa-camera"></i> South Pole Ice Imaging and Calibration</a>
 </div>
 
 ---
@@ -64,9 +64,9 @@ I work on large-scale data analysis and instrumentation development in high-ener
 
 ---
 
-## Instrumentation Development
+## Instrumentation Development for IceCube-Gen2
 
-<div id="instrumentation" class="research-card reverse" data-aos="fade-up">
+<div id="instrumentation" class="research-card" data-aos="fade-up">
   <div class="card-media">
     <div class="figure-container">
       <img src="{{ '/assets/images/LOM_deployment.JPG' | relative_url }}" alt="LOM Deployment in Antarctica">
