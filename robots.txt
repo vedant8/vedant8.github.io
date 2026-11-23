@@ -1,3 +1,7 @@
+---
+layout: null
+---
+
 # Block well-known AI training & scraper user agents
 User-agent: GPTBot
 Disallow: /

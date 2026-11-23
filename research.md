@@ -36,7 +36,7 @@ I work on large-scale data analysis and instrumentation development in high-ener
     <div class="figure-container">
       <img src="{{ '/assets/images/EnergySpectrum.png' | relative_url }}" alt="Cosmic Neutrino Energy Spectrum">
       <div class="figure-caption">
-        <strong>Spectral Curvature:</strong> IceCube's fit to neutrino spectral data, revealing deviations from a single unbroken power law. We observe that the flux is much higher than the most luminous resolved sources, implying that the bulk of neutrino sources are still unresolved. [DOI](https://doi.org/10.1103/2gh9-d4q7)
+        <strong>Spectral Curvature:</strong> IceCube's fit to neutrino spectral data, revealing deviations from a single unbroken power law. We observe that the flux is much higher than the most luminous resolved sources, implying that the bulk of neutrino sources are still unresolved. <a href="https://doi.org/10.1103/2gh9-d4q7" target="_blank" rel="noopener noreferrer">DOI</a>
       </div>
     </div>
   </div>
