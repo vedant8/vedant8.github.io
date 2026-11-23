@@ -48,7 +48,7 @@ author_profile: true
 </div>
 
 <!-- Card 2: Public Talks & Astronomy Nights -->
-<div class="research-card reverse" data-aos="fade-up">
+<div class="research-card" data-aos="fade-up">
   <div class="card-media">
     <div class="figure-container">
       <img src="{{ '/assets/images/Outreach_1.jpg' | relative_url }}" alt="">
