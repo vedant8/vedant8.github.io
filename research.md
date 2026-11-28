@@ -10,6 +10,7 @@ I work on large-scale data analysis and instrumentation development in high-ener
   <a href="#astroparticle" class="research-pill"><i class="fas fa-atom"></i> Astroparticle Physics with Cosmic Neutrinos</a>
   <a href="#instrumentation" class="research-pill"><i class="fas fa-microchip"></i> Instrumentation Development for IceCube-Gen2</a>
   <a href="#ice-calibration" class="research-pill"><i class="fas fa-camera"></i> South Pole Ice Imaging and Calibration</a>
+  <a href="#solarpanels" class="research-pill"><i class="fas fa-sun-o"></i> Off-grid and hybrid power systems</a>
 </div>
 
 ---
@@ -108,3 +109,21 @@ I work on large-scale data analysis and instrumentation development in high-ener
     </div>
   </div>
 </div>
+---
+## Off-Grid & Hybrid Power Systems
+
+<div id="ice-calibration" class="research-card" data-aos="fade-up">
+  <div class="card-media">
+    <div class="figure-container" style="max-width: 100%;">
+      <img src="{{ '/assets/images/SolarPanels.jpeg' | relative_url }}" alt="Solar Panels in Antarctica">
+      <div class="figure-caption">
+        <strong>Hybrid Power in Antarctica:</strong> High-efficiency photovoltaic arrays augment station power capacity during the 24-hour austral summer daylight. Credits: VB, IceCube/NSF.
+      </div>
+    </div>
+  </div>
+  <div style="flex: 2 1 380px;">
+    <p style="margin-top: 0;">
+      Antarctica provides an ideal testbed for ruggedized off-grid and hybrid power systems that supplement existing diesel generators and reduce extreme-logistics fuel demand. Low ambient temperatures increase photovoltaic cell efficiency, while continuous 24-hour sunlight during the austral summer enables reliable power generation. I am interested in applying my field experience with polar photovoltaics to engineer resilient, autonomous power systems for remote instrumentation and off-grid sites in harsh environments.
+    </p>
+  </div>
+</div
